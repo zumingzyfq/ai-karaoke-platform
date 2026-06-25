@@ -1,0 +1,70 @@
+{
+  "song_id": "danche",
+  "timestamp": "2026-06-24T23:48:20.418659",
+  "total_frames": 6,
+  "valid_frames": 6,
+  "statistics": {
+    "avg_abs_cents_diff": 547.3476637327376,
+    "max_abs_cents_diff": 925.3592001138045,
+    "min_abs_cents_diff": 6.102981358327984,
+    "std_cents_diff": 329.41578866798136,
+    "avg_cents_diff": -547.3476637327376,
+    "perfect_rate": 0.0,
+    "grade_distribution": {
+      "perfect (<5)": 0,
+      "good (5-20)": 1,
+      "ok (20-50)": 0,
+      "poor (>=50)": 5
+    }
+  },
+  "records": [
+    {
+      "frame": 70,
+      "timestamp": 4.179591836734694,
+      "user_pitch": 239.94915771484375,
+      "ref_pitch": 240.79652404785156,
+      "cents_diff": -6.102981358327984,
+      "abs_cents_diff": 6.102981358327984
+    },
+    {
+      "frame": 101,
+      "timestamp": 6.15328798185941,
+      "user_pitch": 148.12353515625,
+      "ref_pitch": 242.216796875,
+      "cents_diff": -851.3976329985047,
+      "abs_cents_diff": 851.3976329985047
+    },
+    {
+      "frame": 102,
+      "timestamp": 6.199727891156463,
+      "user_pitch": 148.81472778320312,
+      "ref_pitch": 233.24728393554688,
+      "cents_diff": -778.0115622594129,
+      "abs_cents_diff": 778.0115622594129
+    },
+    {
+      "frame": 104,
+      "timestamp": 6.339047619047619,
+      "user_pitch": 155.45358276367188,
+      "ref_pitch": 193.48789978027344,
+      "cents_diff": -378.91137574262706,
+      "abs_cents_diff": 378.91137574262706
+    },
+    {
+      "frame": 105,
+      "timestamp": 6.408707482993197,
+      "user_pitch": 162.71836853027344,
+      "ref_pitch": 198.52166748046875,
+      "cents_diff": -344.30322992374846,
+      "abs_cents_diff": 344.30322992374846
+    },
+    {
+      "frame": 106,
+      "timestamp": 6.478367346938776,
+      "user_pitch": 138.24539184570312,
+      "ref_pitch": 235.93084716796875,
+      "cents_diff": -925.3592001138045,
+      "abs_cents_diff": 925.3592001138045
+    }
+  ]
+}

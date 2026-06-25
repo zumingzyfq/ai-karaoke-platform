@@ -1,0 +1,54 @@
+{
+  "song_id": "test",
+  "timestamp": "2026-06-11T19:57:12.772135",
+  "total_frames": 4,
+  "valid_frames": 4,
+  "statistics": {
+    "avg_abs_cents_diff": 4743.521969231604,
+    "max_abs_cents_diff": 4751.875243911505,
+    "min_abs_cents_diff": 4732.878420808627,
+    "std_cents_diff": 8.185786969244871,
+    "avg_cents_diff": -4743.521969231604,
+    "perfect_rate": 0.0,
+    "grade_distribution": {
+      "perfect (<5)": 0,
+      "good (5-20)": 0,
+      "ok (20-50)": 0,
+      "poor (>=50)": 4
+    }
+  },
+  "records": [
+    {
+      "frame": 3,
+      "timestamp": 1.2770975056689342,
+      "user_pitch": 103.3158187866211,
+      "ref_pitch": 1595.13134765625,
+      "cents_diff": -4738.250586976537,
+      "abs_cents_diff": 4738.250586976537
+    },
+    {
+      "frame": 4,
+      "timestamp": 1.3003174603174603,
+      "user_pitch": 102.59405517578125,
+      "ref_pitch": 1595.77294921875,
+      "cents_diff": -4751.083625229749,
+      "abs_cents_diff": 4751.083625229749
+    },
+    {
+      "frame": 5,
+      "timestamp": 1.3235374149659864,
+      "user_pitch": 102.58818054199219,
+      "ref_pitch": 1596.411376953125,
+      "cents_diff": -4751.875243911505,
+      "abs_cents_diff": 4751.875243911505
+    },
+    {
+      "frame": 6,
+      "timestamp": 1.3467573696145125,
+      "user_pitch": 103.73348236083984,
+      "ref_pitch": 1596.61767578125,
+      "cents_diff": -4732.878420808627,
+      "abs_cents_diff": 4732.878420808627
+    }
+  ]
+}

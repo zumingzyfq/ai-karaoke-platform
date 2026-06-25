@@ -1,0 +1,78 @@
+{
+  "song_id": "danche",
+  "timestamp": "2026-06-24T22:02:26.955189",
+  "total_frames": 7,
+  "valid_frames": 7,
+  "statistics": {
+    "avg_abs_cents_diff": 2177.8238791856816,
+    "max_abs_cents_diff": 4101.232075634207,
+    "min_abs_cents_diff": 465.1377089119566,
+    "std_cents_diff": 1122.2781993582303,
+    "avg_cents_diff": 2044.9273909251226,
+    "perfect_rate": 0.0,
+    "grade_distribution": {
+      "perfect (<5)": 0,
+      "good (5-20)": 0,
+      "ok (20-50)": 0,
+      "poor (>=50)": 7
+    }
+  },
+  "records": [
+    {
+      "frame": 111,
+      "timestamp": 6.315827664399093,
+      "user_pitch": 462.2314758300781,
+      "ref_pitch": 194.60215759277344,
+      "cents_diff": 1497.7053580439292,
+      "abs_cents_diff": 1497.7053580439292
+    },
+    {
+      "frame": 112,
+      "timestamp": 6.362267573696145,
+      "user_pitch": 704.9835205078125,
+      "ref_pitch": 195.4533233642578,
+      "cents_diff": 2220.9185020491905,
+      "abs_cents_diff": 2220.9185020491905
+    },
+    {
+      "frame": 113,
+      "timestamp": 6.431927437641724,
+      "user_pitch": 161.90003967285156,
+      "ref_pitch": 211.80227661132812,
+      "cents_diff": -465.1377089119566,
+      "abs_cents_diff": 465.1377089119566
+    },
+    {
+      "frame": 118,
+      "timestamp": 6.757006802721088,
+      "user_pitch": 536.2913818359375,
+      "ref_pitch": 200.90841674804688,
+      "cents_diff": 1699.7748776670076,
+      "abs_cents_diff": 1699.7748776670076
+    },
+    {
+      "frame": 119,
+      "timestamp": 6.826666666666667,
+      "user_pitch": 1070.98681640625,
+      "ref_pitch": 153.29327392578125,
+      "cents_diff": 3365.4893026001187,
+      "abs_cents_diff": 3365.4893026001187
+    },
+    {
+      "frame": 120,
+      "timestamp": 6.896326530612245,
+      "user_pitch": 394.1678161621094,
+      "ref_pitch": 131.95556640625,
+      "cents_diff": 1894.5093293933617,
+      "abs_cents_diff": 1894.5093293933617
+    },
+    {
+      "frame": 126,
+      "timestamp": 7.267845804988662,
+      "user_pitch": 1093.64794921875,
+      "ref_pitch": 102.3409194946289,
+      "cents_diff": 4101.232075634207,
+      "abs_cents_diff": 4101.232075634207
+    }
+  ]
+}

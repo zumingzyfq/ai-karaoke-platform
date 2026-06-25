@@ -1,0 +1,4894 @@
+{
+  "song_id": "renjian",
+  "timestamp": "2026-06-24T22:09:12.549009",
+  "total_frames": 609,
+  "valid_frames": 609,
+  "statistics": {
+    "avg_abs_cents_diff": 1068.1282008054889,
+    "max_abs_cents_diff": 3320.2016737038384,
+    "min_abs_cents_diff": 0.9266693081400735,
+    "std_cents_diff": 799.0662952770716,
+    "avg_cents_diff": 112.20799616549054,
+    "perfect_rate": 0.8210180623973727,
+    "grade_distribution": {
+      "perfect (<5)": 5,
+      "good (5-20)": 13,
+      "ok (20-50)": 10,
+      "poor (>=50)": 581
+    }
+  },
+  "records": [
+    {
+      "frame": 5,
+      "timestamp": 0.128,
+      "user_pitch": 433.26007080078125,
+      "ref_pitch": 264.24532956704263,
+      "cents_diff": 856.0263736342679,
+      "abs_cents_diff": 856.0263736342679
+    },
+    {
+      "frame": 6,
+      "timestamp": 0.16,
+      "user_pitch": 434.093017578125,
+      "ref_pitch": 263.8724292050749,
+      "cents_diff": 861.7963185862246,
+      "abs_cents_diff": 861.7963185862246
+    },
+    {
+      "frame": 7,
+      "timestamp": 0.192,
+      "user_pitch": 1162.4521484375,
+      "ref_pitch": 261.0633802966884,
+      "cents_diff": 2585.639185971835,
+      "abs_cents_diff": 2585.639185971835
+    },
+    {
+      "frame": 8,
+      "timestamp": 0.224,
+      "user_pitch": 1098.459228515625,
+      "ref_pitch": 258.3636212935385,
+      "cents_diff": 2505.6077645831015,
+      "abs_cents_diff": 2505.6077645831015
+    },
+    {
+      "frame": 9,
+      "timestamp": 0.256,
+      "user_pitch": 429.66033935546875,
+      "ref_pitch": 264.2019776057722,
+      "cents_diff": 841.866416347283,
+      "abs_cents_diff": 841.866416347283
+    },
+    {
+      "frame": 11,
+      "timestamp": 0.32,
+      "user_pitch": 1055.672607421875,
+      "ref_pitch": 265.4738371429352,
+      "cents_diff": 2389.8250704662605,
+      "abs_cents_diff": 2389.8250704662605
+    },
+    {
+      "frame": 12,
+      "timestamp": 0.352,
+      "user_pitch": 359.4356689453125,
+      "ref_pitch": 257.991296155657,
+      "cents_diff": 574.0934266490498,
+      "abs_cents_diff": 574.0934266490498
+    },
+    {
+      "frame": 14,
+      "timestamp": 0.416,
+      "user_pitch": 968.5042724609375,
+      "ref_pitch": 265.57879887720617,
+      "cents_diff": 2239.9421184420085,
+      "abs_cents_diff": 2239.9421184420085
+    },
+    {
+      "frame": 15,
+      "timestamp": 0.448,
+      "user_pitch": 265.8905029296875,
+      "ref_pitch": 266.8245149733346,
+      "cents_diff": -6.07076975411935,
+      "abs_cents_diff": 6.07076975411935
+    },
+    {
+      "frame": 17,
+      "timestamp": 0.512,
+      "user_pitch": 1055.2939453125,
+      "ref_pitch": 264.9874629847375,
+      "cents_diff": 2392.3786779481748,
+      "abs_cents_diff": 2392.3786779481748
+    },
+    {
+      "frame": 18,
+      "timestamp": 0.544,
+      "user_pitch": 1191.29150390625,
+      "ref_pitch": 259.13598965291953,
+      "cents_diff": 2640.894212308827,
+      "abs_cents_diff": 2640.894212308827
+    },
+    {
+      "frame": 19,
+      "timestamp": 0.576,
+      "user_pitch": 628.5711669921875,
+      "ref_pitch": 260.61335299597675,
+      "cents_diff": 1524.1981095805309,
+      "abs_cents_diff": 1524.1981095805309
+    },
+    {
+      "frame": 23,
+      "timestamp": 0.704,
+      "user_pitch": 242.66497802734375,
+      "ref_pitch": 288.2429883408748,
+      "cents_diff": -297.983524304642,
+      "abs_cents_diff": 297.983524304642
+    },
+    {
+      "frame": 24,
+      "timestamp": 0.736,
+      "user_pitch": 659.4920654296875,
+      "ref_pitch": 299.2731176289358,
+      "cents_diff": 1367.8711298955932,
+      "abs_cents_diff": 1367.8711298955932
+    },
+    {
+      "frame": 25,
+      "timestamp": 0.768,
+      "user_pitch": 946.3980102539062,
+      "ref_pitch": 288.5027100405891,
+      "cents_diff": 2056.634603588797,
+      "abs_cents_diff": 2056.634603588797
+    },
+    {
+      "frame": 26,
+      "timestamp": 0.8,
+      "user_pitch": 251.4987335205078,
+      "ref_pitch": 293.4908728941737,
+      "cents_diff": -267.31740414269734,
+      "abs_cents_diff": 267.31740414269734
+    },
+    {
+      "frame": 27,
+      "timestamp": 0.832,
+      "user_pitch": 100.44931030273438,
+      "ref_pitch": 298.8056136533152,
+      "cents_diff": -1887.2875126460249,
+      "abs_cents_diff": 1887.2875126460249
+    },
+    {
+      "frame": 28,
+      "timestamp": 0.864,
+      "user_pitch": 265.130126953125,
+      "ref_pitch": 297.6567143203682,
+      "cents_diff": -200.33858861449403,
+      "abs_cents_diff": 200.33858861449403
+    },
+    {
+      "frame": 29,
+      "timestamp": 0.896,
+      "user_pitch": 286.4400939941406,
+      "ref_pitch": 291.3458137953144,
+      "cents_diff": -29.398962948914857,
+      "abs_cents_diff": 29.398962948914857
+    },
+    {
+      "frame": 30,
+      "timestamp": 0.928,
+      "user_pitch": 244.0619354248047,
+      "ref_pitch": 295.09860177400077,
+      "cents_diff": -328.73973492933374,
+      "abs_cents_diff": 328.73973492933374
+    },
+    {
+      "frame": 31,
+      "timestamp": 0.96,
+      "user_pitch": 205.0203094482422,
+      "ref_pitch": 291.78365710143834,
+      "cents_diff": -610.9586982658561,
+      "abs_cents_diff": 610.9586982658561
+    },
+    {
+      "frame": 32,
+      "timestamp": 0.992,
+      "user_pitch": 726.2377319335938,
+      "ref_pitch": 293.03947366660714,
+      "cents_diff": 1571.2162474751708,
+      "abs_cents_diff": 1571.2162474751708
+    },
+    {
+      "frame": 33,
+      "timestamp": 1.024,
+      "user_pitch": 265.0504150390625,
+      "ref_pitch": 298.4555731675959,
+      "cents_diff": -205.49927314704877,
+      "abs_cents_diff": 205.49927314704877
+    },
+    {
+      "frame": 35,
+      "timestamp": 1.088,
+      "user_pitch": 206.52450561523438,
+      "ref_pitch": 288.8303966231401,
+      "cents_diff": -580.6915224912016,
+      "abs_cents_diff": 580.6915224912016
+    },
+    {
+      "frame": 36,
+      "timestamp": 1.12,
+      "user_pitch": 211.27548217773438,
+      "ref_pitch": 294.79534702097175,
+      "cents_diff": -576.7060757651387,
+      "abs_cents_diff": 576.7060757651387
+    },
+    {
+      "frame": 37,
+      "timestamp": 1.152,
+      "user_pitch": 630.4619140625,
+      "ref_pitch": 294.69968286490496,
+      "cents_diff": 1316.5964551836646,
+      "abs_cents_diff": 1316.5964551836646
+    },
+    {
+      "frame": 38,
+      "timestamp": 1.184,
+      "user_pitch": 196.5537109375,
+      "ref_pitch": 296.84529059530126,
+      "cents_diff": -713.745147632811,
+      "abs_cents_diff": 713.745147632811
+    },
+    {
+      "frame": 39,
+      "timestamp": 1.216,
+      "user_pitch": 196.06658935546875,
+      "ref_pitch": 294.11038336452583,
+      "cents_diff": -702.0168046144468,
+      "abs_cents_diff": 702.0168046144468
+    },
+    {
+      "frame": 40,
+      "timestamp": 1.248,
+      "user_pitch": 194.91815185546875,
+      "ref_pitch": 289.3349868960364,
+      "cents_diff": -683.8468061442102,
+      "abs_cents_diff": 683.8468061442102
+    },
+    {
+      "frame": 41,
+      "timestamp": 1.28,
+      "user_pitch": 501.2113952636719,
+      "ref_pitch": 333.5348336338198,
+      "cents_diff": 705.0981290589328,
+      "abs_cents_diff": 705.0981290589328
+    },
+    {
+      "frame": 42,
+      "timestamp": 1.312,
+      "user_pitch": 98.14410400390625,
+      "ref_pitch": 328.0233243423359,
+      "cents_diff": -2088.9898760763976,
+      "abs_cents_diff": 2088.9898760763976
+    },
+    {
+      "frame": 43,
+      "timestamp": 1.344,
+      "user_pitch": 98.88965606689453,
+      "ref_pitch": 328.0059203932382,
+      "cents_diff": -2075.796393878103,
+      "abs_cents_diff": 2075.796393878103
+    },
+    {
+      "frame": 44,
+      "timestamp": 1.376,
+      "user_pitch": 286.1600341796875,
+      "ref_pitch": 327.3979968411747,
+      "cents_diff": -233.06795886990557,
+      "abs_cents_diff": 233.06795886990557
+    },
+    {
+      "frame": 45,
+      "timestamp": 1.408,
+      "user_pitch": 283.109619140625,
+      "ref_pitch": 333.59969513220733,
+      "cents_diff": -284.10864263862317,
+      "abs_cents_diff": 284.10864263862317
+    },
+    {
+      "frame": 46,
+      "timestamp": 1.44,
+      "user_pitch": 98.30082702636719,
+      "ref_pitch": 334.7223578043319,
+      "cents_diff": -2121.227351669919,
+      "abs_cents_diff": 2121.227351669919
+    },
+    {
+      "frame": 47,
+      "timestamp": 1.472,
+      "user_pitch": 1083.357421875,
+      "ref_pitch": 336.096074390487,
+      "cents_diff": 2026.2764388870942,
+      "abs_cents_diff": 2026.2764388870942
+    },
+    {
+      "frame": 48,
+      "timestamp": 1.504,
+      "user_pitch": 99.44828796386719,
+      "ref_pitch": 324.0019686276041,
+      "cents_diff": -2044.7809668182615,
+      "abs_cents_diff": 2044.7809668182615
+    },
+    {
+      "frame": 49,
+      "timestamp": 1.536,
+      "user_pitch": 99.62593078613281,
+      "ref_pitch": 334.8435381435775,
+      "cents_diff": -2098.672708665776,
+      "abs_cents_diff": 2098.672708665776
+    },
+    {
+      "frame": 50,
+      "timestamp": 1.568,
+      "user_pitch": 98.59358215332031,
+      "ref_pitch": 331.21120012783473,
+      "cents_diff": -2097.822978382672,
+      "abs_cents_diff": 2097.822978382672
+    },
+    {
+      "frame": 51,
+      "timestamp": 1.6,
+      "user_pitch": 123.29122161865234,
+      "ref_pitch": 323.21010058176523,
+      "cents_diff": -1668.4826414809797,
+      "abs_cents_diff": 1668.4826414809797
+    },
+    {
+      "frame": 52,
+      "timestamp": 1.632,
+      "user_pitch": 196.1397705078125,
+      "ref_pitch": 333.857939726917,
+      "cents_diff": -920.8227066387348,
+      "abs_cents_diff": 920.8227066387348
+    },
+    {
+      "frame": 53,
+      "timestamp": 1.664,
+      "user_pitch": 712.86376953125,
+      "ref_pitch": 333.54978808805726,
+      "cents_diff": 1314.8691297625974,
+      "abs_cents_diff": 1314.8691297625974
+    },
+    {
+      "frame": 54,
+      "timestamp": 1.696,
+      "user_pitch": 885.959716796875,
+      "ref_pitch": 333.28533945628254,
+      "cents_diff": 1692.5798946698515,
+      "abs_cents_diff": 1692.5798946698515
+    },
+    {
+      "frame": 55,
+      "timestamp": 1.728,
+      "user_pitch": 884.5400390625,
+      "ref_pitch": 326.16120592610895,
+      "cents_diff": 1727.2107029967608,
+      "abs_cents_diff": 1727.2107029967608
+    },
+    {
+      "frame": 56,
+      "timestamp": 1.76,
+      "user_pitch": 1180.702392578125,
+      "ref_pitch": 333.23117030789444,
+      "cents_diff": 2190.0601249539345,
+      "abs_cents_diff": 2190.0601249539345
+    },
+    {
+      "frame": 57,
+      "timestamp": 1.792,
+      "user_pitch": 197.0390167236328,
+      "ref_pitch": 329.0096700617177,
+      "cents_diff": -887.5783846800989,
+      "abs_cents_diff": 887.5783846800989
+    },
+    {
+      "frame": 58,
+      "timestamp": 1.824,
+      "user_pitch": 196.70098876953125,
+      "ref_pitch": 323.1862942554922,
+      "cents_diff": -859.6341691013428,
+      "abs_cents_diff": 859.6341691013428
+    },
+    {
+      "frame": 59,
+      "timestamp": 1.856,
+      "user_pitch": 389.11431884765625,
+      "ref_pitch": 325.14314176596923,
+      "cents_diff": 310.94289241605304,
+      "abs_cents_diff": 310.94289241605304
+    },
+    {
+      "frame": 60,
+      "timestamp": 1.888,
+      "user_pitch": 688.2777099609375,
+      "ref_pitch": 324.80264161216513,
+      "cents_diff": 1300.1129072498663,
+      "abs_cents_diff": 1300.1129072498663
+    },
+    {
+      "frame": 61,
+      "timestamp": 1.92,
+      "user_pitch": 195.58811950683594,
+      "ref_pitch": 344.90267490775346,
+      "cents_diff": -982.0446930532374,
+      "abs_cents_diff": 982.0446930532374
+    },
+    {
+      "frame": 62,
+      "timestamp": 1.952,
+      "user_pitch": 1177.8709716796875,
+      "ref_pitch": 355.5782876718274,
+      "cents_diff": 2073.530845923284,
+      "abs_cents_diff": 2073.530845923284
+    },
+    {
+      "frame": 63,
+      "timestamp": 1.984,
+      "user_pitch": 1177.107666015625,
+      "ref_pitch": 347.115514664395,
+      "cents_diff": 2114.110236507876,
+      "abs_cents_diff": 2114.110236507876
+    },
+    {
+      "frame": 66,
+      "timestamp": 2.08,
+      "user_pitch": 235.77923583984375,
+      "ref_pitch": 345.72428023939904,
+      "cents_diff": -662.6223076276971,
+      "abs_cents_diff": 662.6223076276971
+    },
+    {
+      "frame": 67,
+      "timestamp": 2.112,
+      "user_pitch": 768.919921875,
+      "ref_pitch": 345.99317555021,
+      "cents_diff": 1382.5077316758893,
+      "abs_cents_diff": 1382.5077316758893
+    },
+    {
+      "frame": 68,
+      "timestamp": 2.144,
+      "user_pitch": 436.7064208984375,
+      "ref_pitch": 347.45752295722394,
+      "cents_diff": 395.7925506986869,
+      "abs_cents_diff": 395.7925506986869
+    },
+    {
+      "frame": 69,
+      "timestamp": 2.176,
+      "user_pitch": 236.99191284179688,
+      "ref_pitch": 348.3455845329682,
+      "cents_diff": -666.8177367814035,
+      "abs_cents_diff": 666.8177367814035
+    },
+    {
+      "frame": 70,
+      "timestamp": 2.208,
+      "user_pitch": 253.73040771484375,
+      "ref_pitch": 345.3454440078243,
+      "cents_diff": -533.6925177864838,
+      "abs_cents_diff": 533.6925177864838
+    },
+    {
+      "frame": 71,
+      "timestamp": 2.24,
+      "user_pitch": 428.8445739746094,
+      "ref_pitch": 347.41732625822857,
+      "cents_diff": 364.5421938232509,
+      "abs_cents_diff": 364.5421938232509
+    },
+    {
+      "frame": 72,
+      "timestamp": 2.272,
+      "user_pitch": 432.71173095703125,
+      "ref_pitch": 348.091013482696,
+      "cents_diff": 376.72999695178214,
+      "abs_cents_diff": 376.72999695178214
+    },
+    {
+      "frame": 73,
+      "timestamp": 2.304,
+      "user_pitch": 429.4725036621094,
+      "ref_pitch": 347.1914547922711,
+      "cents_diff": 368.2011934266174,
+      "abs_cents_diff": 368.2011934266174
+    },
+    {
+      "frame": 74,
+      "timestamp": 2.336,
+      "user_pitch": 434.61505126953125,
+      "ref_pitch": 346.9637271030229,
+      "cents_diff": 389.9439502028434,
+      "abs_cents_diff": 389.9439502028434
+    },
+    {
+      "frame": 75,
+      "timestamp": 2.368,
+      "user_pitch": 292.9813537597656,
+      "ref_pitch": 350.92364048041736,
+      "cents_diff": -312.41794832195666,
+      "abs_cents_diff": 312.41794832195666
+    },
+    {
+      "frame": 76,
+      "timestamp": 2.4,
+      "user_pitch": 575.4310913085938,
+      "ref_pitch": 347.63346394310616,
+      "cents_diff": 872.4914497937784,
+      "abs_cents_diff": 872.4914497937784
+    },
+    {
+      "frame": 77,
+      "timestamp": 2.432,
+      "user_pitch": 292.17755126953125,
+      "ref_pitch": 345.81880071109447,
+      "cents_diff": -291.8051613888696,
+      "abs_cents_diff": 291.8051613888696
+    },
+    {
+      "frame": 78,
+      "timestamp": 2.464,
+      "user_pitch": 254.81272888183594,
+      "ref_pitch": 354.02307961281207,
+      "cents_diff": -569.2872822316126,
+      "abs_cents_diff": 569.2872822316126
+    },
+    {
+      "frame": 79,
+      "timestamp": 2.496,
+      "user_pitch": 665.9137573242188,
+      "ref_pitch": 347.00079257648906,
+      "cents_diff": 1128.4756650302402,
+      "abs_cents_diff": 1128.4756650302402
+    },
+    {
+      "frame": 80,
+      "timestamp": 2.528,
+      "user_pitch": 969.4515991210938,
+      "ref_pitch": 344.52958251485586,
+      "cents_diff": 1791.0492107887749,
+      "abs_cents_diff": 1791.0492107887749
+    },
+    {
+      "frame": 81,
+      "timestamp": 2.56,
+      "user_pitch": 287.59814453125,
+      "ref_pitch": 388.18588111772124,
+      "cents_diff": -519.2319335834516,
+      "abs_cents_diff": 519.2319335834516
+    },
+    {
+      "frame": 82,
+      "timestamp": 2.592,
+      "user_pitch": 288.2264709472656,
+      "ref_pitch": 387.7282965727211,
+      "cents_diff": -513.4118250776772,
+      "abs_cents_diff": 513.4118250776772
+    },
+    {
+      "frame": 83,
+      "timestamp": 2.624,
+      "user_pitch": 580.268310546875,
+      "ref_pitch": 396.54092367613487,
+      "cents_diff": 659.1004570351098,
+      "abs_cents_diff": 659.1004570351098
+    },
+    {
+      "frame": 84,
+      "timestamp": 2.656,
+      "user_pitch": 374.1224670410156,
+      "ref_pitch": 393.92931229188423,
+      "cents_diff": -89.31139895299427,
+      "abs_cents_diff": 89.31139895299427
+    },
+    {
+      "frame": 85,
+      "timestamp": 2.688,
+      "user_pitch": 378.98760986328125,
+      "ref_pitch": 390.0775737107964,
+      "cents_diff": -49.93244876626078,
+      "abs_cents_diff": 49.93244876626078
+    },
+    {
+      "frame": 86,
+      "timestamp": 2.72,
+      "user_pitch": 758.3729858398438,
+      "ref_pitch": 399.55153575777484,
+      "cents_diff": 1109.4311698478284,
+      "abs_cents_diff": 1109.4311698478284
+    },
+    {
+      "frame": 87,
+      "timestamp": 2.752,
+      "user_pitch": 416.503662109375,
+      "ref_pitch": 389.0871642618558,
+      "cents_diff": 117.88295165063815,
+      "abs_cents_diff": 117.88295165063815
+    },
+    {
+      "frame": 88,
+      "timestamp": 2.784,
+      "user_pitch": 428.7448425292969,
+      "ref_pitch": 388.1615175378601,
+      "cents_diff": 172.15466520466046,
+      "abs_cents_diff": 172.15466520466046
+    },
+    {
+      "frame": 90,
+      "timestamp": 2.848,
+      "user_pitch": 286.2516784667969,
+      "ref_pitch": 394.54198527997056,
+      "cents_diff": -555.4736166220326,
+      "abs_cents_diff": 555.4736166220326
+    },
+    {
+      "frame": 91,
+      "timestamp": 2.88,
+      "user_pitch": 986.2957763671875,
+      "ref_pitch": 396.9035435134358,
+      "cents_diff": 1575.8782956148784,
+      "abs_cents_diff": 1575.8782956148784
+    },
+    {
+      "frame": 93,
+      "timestamp": 2.944,
+      "user_pitch": 692.205810546875,
+      "ref_pitch": 389.67988759804456,
+      "cents_diff": 994.6938956918899,
+      "abs_cents_diff": 994.6938956918899
+    },
+    {
+      "frame": 96,
+      "timestamp": 3.04,
+      "user_pitch": 788.046875,
+      "ref_pitch": 385.3409346702968,
+      "cents_diff": 1238.5751952916908,
+      "abs_cents_diff": 1238.5751952916908
+    },
+    {
+      "frame": 98,
+      "timestamp": 3.104,
+      "user_pitch": 1029.63720703125,
+      "ref_pitch": 385.93484874723515,
+      "cents_diff": 1698.8482404758356,
+      "abs_cents_diff": 1698.8482404758356
+    },
+    {
+      "frame": 100,
+      "timestamp": 3.168,
+      "user_pitch": 1144.310791015625,
+      "ref_pitch": 387.32331404855324,
+      "cents_diff": 1875.442425210355,
+      "abs_cents_diff": 1875.442425210355
+    },
+    {
+      "frame": 101,
+      "timestamp": 3.2,
+      "user_pitch": 733.1903686523438,
+      "ref_pitch": 434.74930399178385,
+      "cents_diff": 904.8049399009203,
+      "abs_cents_diff": 904.8049399009203
+    },
+    {
+      "frame": 102,
+      "timestamp": 3.232,
+      "user_pitch": 1181.551513671875,
+      "ref_pitch": 446.6498977340971,
+      "cents_diff": 1684.1594316548722,
+      "abs_cents_diff": 1684.1594316548722
+    },
+    {
+      "frame": 103,
+      "timestamp": 3.264,
+      "user_pitch": 291.6317138671875,
+      "ref_pitch": 436.35567039486017,
+      "cents_diff": -697.6283148204906,
+      "abs_cents_diff": 697.6283148204906
+    },
+    {
+      "frame": 104,
+      "timestamp": 3.296,
+      "user_pitch": 883.6363525390625,
+      "ref_pitch": 447.41010194122146,
+      "cents_diff": 1178.2259292127312,
+      "abs_cents_diff": 1178.2259292127312
+    },
+    {
+      "frame": 105,
+      "timestamp": 3.328,
+      "user_pitch": 887.9739379882812,
+      "ref_pitch": 443.8762411225793,
+      "cents_diff": 1200.431813955657,
+      "abs_cents_diff": 1200.431813955657
+    },
+    {
+      "frame": 106,
+      "timestamp": 3.36,
+      "user_pitch": 958.9661865234375,
+      "ref_pitch": 437.0414166300439,
+      "cents_diff": 1360.4519300368481,
+      "abs_cents_diff": 1360.4519300368481
+    },
+    {
+      "frame": 107,
+      "timestamp": 3.392,
+      "user_pitch": 436.9263916015625,
+      "ref_pitch": 435.8105571834849,
+      "cents_diff": 4.426927479112123,
+      "abs_cents_diff": 4.426927479112123
+    },
+    {
+      "frame": 108,
+      "timestamp": 3.424,
+      "user_pitch": 454.19793701171875,
+      "ref_pitch": 445.21773700555207,
+      "cents_diff": 34.57210079537305,
+      "abs_cents_diff": 34.57210079537305
+    },
+    {
+      "frame": 110,
+      "timestamp": 3.488,
+      "user_pitch": 74.07596588134766,
+      "ref_pitch": 431.5255742124128,
+      "cents_diff": -3050.8423499268365,
+      "abs_cents_diff": 3050.8423499268365
+    },
+    {
+      "frame": 112,
+      "timestamp": 3.552,
+      "user_pitch": 889.19140625,
+      "ref_pitch": 441.60106712193675,
+      "cents_diff": 1211.7004162526011,
+      "abs_cents_diff": 1211.7004162526011
+    },
+    {
+      "frame": 114,
+      "timestamp": 3.616,
+      "user_pitch": 785.76904296875,
+      "ref_pitch": 438.9714376596555,
+      "cents_diff": 1007.9739110609574,
+      "abs_cents_diff": 1007.9739110609574
+    },
+    {
+      "frame": 115,
+      "timestamp": 3.648,
+      "user_pitch": 429.9501953125,
+      "ref_pitch": 432.2765226936992,
+      "cents_diff": -9.341921005249908,
+      "abs_cents_diff": 9.341921005249908
+    },
+    {
+      "frame": 116,
+      "timestamp": 3.68,
+      "user_pitch": 434.5357360839844,
+      "ref_pitch": 435.33636711728434,
+      "cents_diff": -3.186859520813983,
+      "abs_cents_diff": 3.186859520813983
+    },
+    {
+      "frame": 117,
+      "timestamp": 3.712,
+      "user_pitch": 437.11187744140625,
+      "ref_pitch": 436.87796927986034,
+      "cents_diff": 0.9266693081400735,
+      "abs_cents_diff": 0.9266693081400735
+    },
+    {
+      "frame": 118,
+      "timestamp": 3.744,
+      "user_pitch": 434.2950134277344,
+      "ref_pitch": 437.8004650533818,
+      "cents_diff": -13.9177189791287,
+      "abs_cents_diff": 13.9177189791287
+    },
+    {
+      "frame": 119,
+      "timestamp": 3.776,
+      "user_pitch": 1033.4921875,
+      "ref_pitch": 445.7109083565926,
+      "cents_diff": 1456.0167694857244,
+      "abs_cents_diff": 1456.0167694857244
+    },
+    {
+      "frame": 120,
+      "timestamp": 3.808,
+      "user_pitch": 1000.300048828125,
+      "ref_pitch": 436.69563027314285,
+      "cents_diff": 1434.8793765927492,
+      "abs_cents_diff": 1434.8793765927492
+    },
+    {
+      "frame": 121,
+      "timestamp": 3.84,
+      "user_pitch": 689.742431640625,
+      "ref_pitch": 498.40749267655633,
+      "cents_diff": 562.4783573531001,
+      "abs_cents_diff": 562.4783573531001
+    },
+    {
+      "frame": 122,
+      "timestamp": 3.872,
+      "user_pitch": 196.09463500976562,
+      "ref_pitch": 486.20986799274306,
+      "cents_diff": -1572.034930961792,
+      "abs_cents_diff": 1572.034930961792
+    },
+    {
+      "frame": 124,
+      "timestamp": 3.936,
+      "user_pitch": 147.5555419921875,
+      "ref_pitch": 485.65994382677997,
+      "cents_diff": -2062.426072092438,
+      "abs_cents_diff": 2062.426072092438
+    },
+    {
+      "frame": 125,
+      "timestamp": 3.968,
+      "user_pitch": 197.5203399658203,
+      "ref_pitch": 498.14382741294236,
+      "cents_diff": -1601.473346723591,
+      "abs_cents_diff": 1601.473346723591
+    },
+    {
+      "frame": 126,
+      "timestamp": 4.0,
+      "user_pitch": 466.5940856933594,
+      "ref_pitch": 499.15863191471635,
+      "cents_diff": -116.79642518229186,
+      "abs_cents_diff": 116.79642518229186
+    },
+    {
+      "frame": 127,
+      "timestamp": 4.032,
+      "user_pitch": 1171.6898193359375,
+      "ref_pitch": 501.13673870574667,
+      "cents_diff": 1470.3773817707875,
+      "abs_cents_diff": 1470.3773817707875
+    },
+    {
+      "frame": 128,
+      "timestamp": 4.064,
+      "user_pitch": 273.263916015625,
+      "ref_pitch": 495.59663587667694,
+      "cents_diff": -1030.645712613986,
+      "abs_cents_diff": 1030.645712613986
+    },
+    {
+      "frame": 129,
+      "timestamp": 4.096,
+      "user_pitch": 582.875732421875,
+      "ref_pitch": 500.53273537003474,
+      "cents_diff": 263.6686937763747,
+      "abs_cents_diff": 263.6686937763747
+    },
+    {
+      "frame": 130,
+      "timestamp": 4.128,
+      "user_pitch": 1180.3031005859375,
+      "ref_pitch": 502.15661891177723,
+      "cents_diff": 1479.5377012854547,
+      "abs_cents_diff": 1479.5377012854547
+    },
+    {
+      "frame": 131,
+      "timestamp": 4.16,
+      "user_pitch": 100.95858001708984,
+      "ref_pitch": 496.1733435645734,
+      "cents_diff": -2756.496847015582,
+      "abs_cents_diff": 2756.496847015582
+    },
+    {
+      "frame": 133,
+      "timestamp": 4.224,
+      "user_pitch": 239.35861206054688,
+      "ref_pitch": 488.37516176911174,
+      "cents_diff": -1234.5793362036259,
+      "abs_cents_diff": 1234.5793362036259
+    },
+    {
+      "frame": 137,
+      "timestamp": 4.352,
+      "user_pitch": 1187.7578125,
+      "ref_pitch": 496.3278236545535,
+      "cents_diff": 1510.6505496486095,
+      "abs_cents_diff": 1510.6505496486095
+    },
+    {
+      "frame": 138,
+      "timestamp": 4.384,
+      "user_pitch": 917.9729614257812,
+      "ref_pitch": 495.6010496640007,
+      "cents_diff": 1067.1269005558831,
+      "abs_cents_diff": 1067.1269005558831
+    },
+    {
+      "frame": 139,
+      "timestamp": 4.416,
+      "user_pitch": 99.58971405029297,
+      "ref_pitch": 497.87487391390795,
+      "cents_diff": -2786.0574724400108,
+      "abs_cents_diff": 2786.0574724400108
+    },
+    {
+      "frame": 140,
+      "timestamp": 4.448,
+      "user_pitch": 883.7886962890625,
+      "ref_pitch": 493.8075499697058,
+      "cents_diff": 1007.7031015385113,
+      "abs_cents_diff": 1007.7031015385113
+    },
+    {
+      "frame": 142,
+      "timestamp": 4.512,
+      "user_pitch": 1051.89453125,
+      "ref_pitch": 265.583207062548,
+      "cents_diff": 2382.9050722158695,
+      "abs_cents_diff": 2382.9050722158695
+    },
+    {
+      "frame": 143,
+      "timestamp": 4.544,
+      "user_pitch": 450.19281005859375,
+      "ref_pitch": 266.6676938524751,
+      "cents_diff": 906.5999514273457,
+      "abs_cents_diff": 906.5999514273457
+    },
+    {
+      "frame": 144,
+      "timestamp": 4.576,
+      "user_pitch": 98.91134643554688,
+      "ref_pitch": 258.0883373055133,
+      "cents_diff": -1660.3884210695594,
+      "abs_cents_diff": 1660.3884210695594
+    },
+    {
+      "frame": 146,
+      "timestamp": 4.64,
+      "user_pitch": 390.1279602050781,
+      "ref_pitch": 261.68755494520656,
+      "cents_diff": 691.3224997889159,
+      "abs_cents_diff": 691.3224997889159
+    },
+    {
+      "frame": 147,
+      "timestamp": 4.672,
+      "user_pitch": 293.42645263671875,
+      "ref_pitch": 259.0139052103879,
+      "cents_diff": 215.9632628106635,
+      "abs_cents_diff": 215.9632628106635
+    },
+    {
+      "frame": 148,
+      "timestamp": 4.704,
+      "user_pitch": 389.99102783203125,
+      "ref_pitch": 264.9677720894543,
+      "cents_diff": 669.1488451052867,
+      "abs_cents_diff": 669.1488451052867
+    },
+    {
+      "frame": 149,
+      "timestamp": 4.736,
+      "user_pitch": 294.2444152832031,
+      "ref_pitch": 258.89688957051555,
+      "cents_diff": 221.56488097219406,
+      "abs_cents_diff": 221.56488097219406
+    },
+    {
+      "frame": 150,
+      "timestamp": 4.768,
+      "user_pitch": 390.6749572753906,
+      "ref_pitch": 264.63680875675084,
+      "cents_diff": 674.3460452428734,
+      "abs_cents_diff": 674.3460452428734
+    },
+    {
+      "frame": 151,
+      "timestamp": 4.8,
+      "user_pitch": 320.47528076171875,
+      "ref_pitch": 266.2658078618757,
+      "cents_diff": 320.81508336923173,
+      "abs_cents_diff": 320.81508336923173
+    },
+    {
+      "frame": 152,
+      "timestamp": 4.832,
+      "user_pitch": 388.85430908203125,
+      "ref_pitch": 258.9611790081554,
+      "cents_diff": 703.7926644499667,
+      "abs_cents_diff": 703.7926644499667
+    },
+    {
+      "frame": 153,
+      "timestamp": 4.864,
+      "user_pitch": 386.8966369628906,
+      "ref_pitch": 262.463210454467,
+      "cents_diff": 671.7995693741769,
+      "abs_cents_diff": 671.7995693741769
+    },
+    {
+      "frame": 154,
+      "timestamp": 4.896,
+      "user_pitch": 391.5349426269531,
+      "ref_pitch": 259.98385452645897,
+      "cents_diff": 708.8628418620423,
+      "abs_cents_diff": 708.8628418620423
+    },
+    {
+      "frame": 155,
+      "timestamp": 4.928,
+      "user_pitch": 392.43695068359375,
+      "ref_pitch": 262.61049595272,
+      "cents_diff": 695.4435709340552,
+      "abs_cents_diff": 695.4435709340552
+    },
+    {
+      "frame": 156,
+      "timestamp": 4.96,
+      "user_pitch": 390.89996337890625,
+      "ref_pitch": 260.6947857935723,
+      "cents_diff": 701.32526631355,
+      "abs_cents_diff": 701.32526631355
+    },
+    {
+      "frame": 157,
+      "timestamp": 4.992,
+      "user_pitch": 388.89306640625,
+      "ref_pitch": 264.0570848728698,
+      "cents_diff": 670.2283949693455,
+      "abs_cents_diff": 670.2283949693455
+    },
+    {
+      "frame": 158,
+      "timestamp": 5.024,
+      "user_pitch": 388.58233642578125,
+      "ref_pitch": 261.5065706367978,
+      "cents_diff": 685.6477516893124,
+      "abs_cents_diff": 685.6477516893124
+    },
+    {
+      "frame": 159,
+      "timestamp": 5.056,
+      "user_pitch": 391.74713134765625,
+      "ref_pitch": 260.0329200988996,
+      "cents_diff": 709.4741167994365,
+      "abs_cents_diff": 709.4741167994365
+    },
+    {
+      "frame": 160,
+      "timestamp": 5.088,
+      "user_pitch": 389.12506103515625,
+      "ref_pitch": 261.4434696665877,
+      "cents_diff": 688.4818355732957,
+      "abs_cents_diff": 688.4818355732957
+    },
+    {
+      "frame": 161,
+      "timestamp": 5.12,
+      "user_pitch": 389.7776794433594,
+      "ref_pitch": 290.8262541572837,
+      "cents_diff": 506.99275648247584,
+      "abs_cents_diff": 506.99275648247584
+    },
+    {
+      "frame": 162,
+      "timestamp": 5.152,
+      "user_pitch": 385.15185546875,
+      "ref_pitch": 292.1112581862061,
+      "cents_diff": 478.6912964763704,
+      "abs_cents_diff": 478.6912964763704
+    },
+    {
+      "frame": 163,
+      "timestamp": 5.184,
+      "user_pitch": 271.2319641113281,
+      "ref_pitch": 291.16867390447555,
+      "cents_diff": -122.79352915354534,
+      "abs_cents_diff": 122.79352915354534
+    },
+    {
+      "frame": 164,
+      "timestamp": 5.216,
+      "user_pitch": 337.073486328125,
+      "ref_pitch": 292.03047911624094,
+      "cents_diff": 248.3330413541598,
+      "abs_cents_diff": 248.3330413541598
+    },
+    {
+      "frame": 165,
+      "timestamp": 5.248,
+      "user_pitch": 538.6402587890625,
+      "ref_pitch": 296.5098312843651,
+      "cents_diff": 1033.4905470324973,
+      "abs_cents_diff": 1033.4905470324973
+    },
+    {
+      "frame": 166,
+      "timestamp": 5.28,
+      "user_pitch": 370.4302673339844,
+      "ref_pitch": 294.04417056807296,
+      "cents_diff": 399.80291359810093,
+      "abs_cents_diff": 399.80291359810093
+    },
+    {
+      "frame": 167,
+      "timestamp": 5.312,
+      "user_pitch": 558.3977661132812,
+      "ref_pitch": 293.6400818892771,
+      "cents_diff": 1112.6931125164683,
+      "abs_cents_diff": 1112.6931125164683
+    },
+    {
+      "frame": 168,
+      "timestamp": 5.344,
+      "user_pitch": 746.6966552734375,
+      "ref_pitch": 298.58634258613336,
+      "cents_diff": 1586.8489091367692,
+      "abs_cents_diff": 1586.8489091367692
+    },
+    {
+      "frame": 169,
+      "timestamp": 5.376,
+      "user_pitch": 653.2036743164062,
+      "ref_pitch": 288.2224521699727,
+      "cents_diff": 1416.4202185757038,
+      "abs_cents_diff": 1416.4202185757038
+    },
+    {
+      "frame": 170,
+      "timestamp": 5.408,
+      "user_pitch": 370.98492431640625,
+      "ref_pitch": 291.70688733582375,
+      "cents_diff": 416.20933442010215,
+      "abs_cents_diff": 416.20933442010215
+    },
+    {
+      "frame": 171,
+      "timestamp": 5.44,
+      "user_pitch": 241.05758666992188,
+      "ref_pitch": 291.2661604125853,
+      "cents_diff": -327.55231429743736,
+      "abs_cents_diff": 327.55231429743736
+    },
+    {
+      "frame": 173,
+      "timestamp": 5.504,
+      "user_pitch": 371.0899353027344,
+      "ref_pitch": 293.8641339139562,
+      "cents_diff": 403.94350061754074,
+      "abs_cents_diff": 403.94350061754074
+    },
+    {
+      "frame": 174,
+      "timestamp": 5.536,
+      "user_pitch": 386.5227355957031,
+      "ref_pitch": 298.30299516499366,
+      "cents_diff": 448.52977657030186,
+      "abs_cents_diff": 448.52977657030186
+    },
+    {
+      "frame": 175,
+      "timestamp": 5.568,
+      "user_pitch": 392.6204833984375,
+      "ref_pitch": 292.6625305165715,
+      "cents_diff": 508.676870129467,
+      "abs_cents_diff": 508.676870129467
+    },
+    {
+      "frame": 176,
+      "timestamp": 5.6,
+      "user_pitch": 75.52914428710938,
+      "ref_pitch": 299.07901571492425,
+      "cents_diff": -2382.5056118461002,
+      "abs_cents_diff": 2382.5056118461002
+    },
+    {
+      "frame": 177,
+      "timestamp": 5.632,
+      "user_pitch": 747.4160766601562,
+      "ref_pitch": 291.3397248180944,
+      "cents_diff": 1631.050999631997,
+      "abs_cents_diff": 1631.050999631997
+    },
+    {
+      "frame": 178,
+      "timestamp": 5.664,
+      "user_pitch": 410.2526550292969,
+      "ref_pitch": 297.35248844479014,
+      "cents_diff": 557.2062254949072,
+      "abs_cents_diff": 557.2062254949072
+    },
+    {
+      "frame": 179,
+      "timestamp": 5.696,
+      "user_pitch": 434.0802917480469,
+      "ref_pitch": 289.3385136038466,
+      "cents_diff": 702.2442604988271,
+      "abs_cents_diff": 702.2442604988271
+    },
+    {
+      "frame": 180,
+      "timestamp": 5.728,
+      "user_pitch": 414.9388732910156,
+      "ref_pitch": 291.6558153970578,
+      "cents_diff": 610.3583770097147,
+      "abs_cents_diff": 610.3583770097147
+    },
+    {
+      "frame": 181,
+      "timestamp": 5.76,
+      "user_pitch": 431.33465576171875,
+      "ref_pitch": 334.3058775924492,
+      "cents_diff": 441.16669771984414,
+      "abs_cents_diff": 441.16669771984414
+    },
+    {
+      "frame": 182,
+      "timestamp": 5.792,
+      "user_pitch": 365.1252136230469,
+      "ref_pitch": 329.97535674966235,
+      "cents_diff": 175.23961454471646,
+      "abs_cents_diff": 175.23961454471646
+    },
+    {
+      "frame": 183,
+      "timestamp": 5.824,
+      "user_pitch": 422.15869140625,
+      "ref_pitch": 331.01803013956214,
+      "cents_diff": 421.05073878955335,
+      "abs_cents_diff": 421.05073878955335
+    },
+    {
+      "frame": 184,
+      "timestamp": 5.856,
+      "user_pitch": 436.4659118652344,
+      "ref_pitch": 328.62610988234036,
+      "cents_diff": 491.30624875375906,
+      "abs_cents_diff": 491.30624875375906
+    },
+    {
+      "frame": 185,
+      "timestamp": 5.888,
+      "user_pitch": 432.59051513671875,
+      "ref_pitch": 329.11555571182424,
+      "cents_diff": 473.2893793956394,
+      "abs_cents_diff": 473.2893793956394
+    },
+    {
+      "frame": 186,
+      "timestamp": 5.92,
+      "user_pitch": 437.76080322265625,
+      "ref_pitch": 334.47664919513943,
+      "cents_diff": 465.88474426483623,
+      "abs_cents_diff": 465.88474426483623
+    },
+    {
+      "frame": 187,
+      "timestamp": 5.952,
+      "user_pitch": 437.71014404296875,
+      "ref_pitch": 334.2229159433122,
+      "cents_diff": 466.9981970756301,
+      "abs_cents_diff": 466.9981970756301
+    },
+    {
+      "frame": 188,
+      "timestamp": 5.984,
+      "user_pitch": 436.9599304199219,
+      "ref_pitch": 328.99589260317157,
+      "cents_diff": 491.3177003374105,
+      "abs_cents_diff": 491.3177003374105
+    },
+    {
+      "frame": 189,
+      "timestamp": 6.016,
+      "user_pitch": 433.6539611816406,
+      "ref_pitch": 325.24267529931217,
+      "cents_diff": 498.03326522572473,
+      "abs_cents_diff": 498.03326522572473
+    },
+    {
+      "frame": 190,
+      "timestamp": 6.048,
+      "user_pitch": 812.365478515625,
+      "ref_pitch": 327.8536478416025,
+      "cents_diff": 1570.892383903678,
+      "abs_cents_diff": 1570.892383903678
+    },
+    {
+      "frame": 191,
+      "timestamp": 6.08,
+      "user_pitch": 438.0204772949219,
+      "ref_pitch": 328.4363656423014,
+      "cents_diff": 498.46132869166547,
+      "abs_cents_diff": 498.46132869166547
+    },
+    {
+      "frame": 192,
+      "timestamp": 6.112,
+      "user_pitch": 437.67529296875,
+      "ref_pitch": 324.63276534105944,
+      "cents_diff": 517.2627913699209,
+      "abs_cents_diff": 517.2627913699209
+    },
+    {
+      "frame": 193,
+      "timestamp": 6.144,
+      "user_pitch": 886.171142578125,
+      "ref_pitch": 327.1325171423543,
+      "cents_diff": 1725.2522114950664,
+      "abs_cents_diff": 1725.2522114950664
+    },
+    {
+      "frame": 194,
+      "timestamp": 6.176,
+      "user_pitch": 886.6693115234375,
+      "ref_pitch": 334.5454265038472,
+      "cents_diff": 1687.4328260714567,
+      "abs_cents_diff": 1687.4328260714567
+    },
+    {
+      "frame": 195,
+      "timestamp": 6.208,
+      "user_pitch": 886.6808471679688,
+      "ref_pitch": 327.97747912638357,
+      "cents_diff": 1721.7817902329552,
+      "abs_cents_diff": 1721.7817902329552
+    },
+    {
+      "frame": 196,
+      "timestamp": 6.24,
+      "user_pitch": 549.744873046875,
+      "ref_pitch": 328.8390691377004,
+      "cents_diff": 889.6566356420376,
+      "abs_cents_diff": 889.6566356420376
+    },
+    {
+      "frame": 197,
+      "timestamp": 6.272,
+      "user_pitch": 437.92340087890625,
+      "ref_pitch": 323.47217845866425,
+      "cents_diff": 524.444293225736,
+      "abs_cents_diff": 524.444293225736
+    },
+    {
+      "frame": 198,
+      "timestamp": 6.304,
+      "user_pitch": 438.01141357421875,
+      "ref_pitch": 328.5422997792073,
+      "cents_diff": 497.8672012032475,
+      "abs_cents_diff": 497.8672012032475
+    },
+    {
+      "frame": 199,
+      "timestamp": 6.336,
+      "user_pitch": 774.218017578125,
+      "ref_pitch": 327.8318222722095,
+      "cents_diff": 1487.740776396245,
+      "abs_cents_diff": 1487.740776396245
+    },
+    {
+      "frame": 200,
+      "timestamp": 6.368,
+      "user_pitch": 886.6807861328125,
+      "ref_pitch": 328.9395169172551,
+      "cents_diff": 1716.7109733008706,
+      "abs_cents_diff": 1716.7109733008706
+    },
+    {
+      "frame": 201,
+      "timestamp": 6.4,
+      "user_pitch": 439.4737548828125,
+      "ref_pitch": 346.28440048645956,
+      "cents_diff": 412.58353554031964,
+      "abs_cents_diff": 412.58353554031964
+    },
+    {
+      "frame": 202,
+      "timestamp": 6.432,
+      "user_pitch": 455.2121887207031,
+      "ref_pitch": 349.77932374041427,
+      "cents_diff": 456.1130122482993,
+      "abs_cents_diff": 456.1130122482993
+    },
+    {
+      "frame": 203,
+      "timestamp": 6.464,
+      "user_pitch": 486.6228332519531,
+      "ref_pitch": 348.194990733305,
+      "cents_diff": 579.4902814027046,
+      "abs_cents_diff": 579.4902814027046
+    },
+    {
+      "frame": 204,
+      "timestamp": 6.496,
+      "user_pitch": 486.9300537109375,
+      "ref_pitch": 355.947305584207,
+      "cents_diff": 542.4610405475302,
+      "abs_cents_diff": 542.4610405475302
+    },
+    {
+      "frame": 205,
+      "timestamp": 6.528,
+      "user_pitch": 492.26678466796875,
+      "ref_pitch": 350.3238228128794,
+      "cents_diff": 588.9015601044409,
+      "abs_cents_diff": 588.9015601044409
+    },
+    {
+      "frame": 206,
+      "timestamp": 6.56,
+      "user_pitch": 492.012451171875,
+      "ref_pitch": 351.8325814304619,
+      "cents_diff": 580.5668833150739,
+      "abs_cents_diff": 580.5668833150739
+    },
+    {
+      "frame": 207,
+      "timestamp": 6.592,
+      "user_pitch": 447.283935546875,
+      "ref_pitch": 347.15409774473255,
+      "cents_diff": 438.7376918635919,
+      "abs_cents_diff": 438.7376918635919
+    },
+    {
+      "frame": 208,
+      "timestamp": 6.624,
+      "user_pitch": 437.26666259765625,
+      "ref_pitch": 352.9599040749336,
+      "cents_diff": 370.81086834290824,
+      "abs_cents_diff": 370.81086834290824
+    },
+    {
+      "frame": 209,
+      "timestamp": 6.656,
+      "user_pitch": 436.30712890625,
+      "ref_pitch": 347.0772104239321,
+      "cents_diff": 396.10488897735956,
+      "abs_cents_diff": 396.10488897735956
+    },
+    {
+      "frame": 210,
+      "timestamp": 6.688,
+      "user_pitch": 436.0679931640625,
+      "ref_pitch": 344.0838830883483,
+      "cents_diff": 410.15134151728785,
+      "abs_cents_diff": 410.15134151728785
+    },
+    {
+      "frame": 211,
+      "timestamp": 6.72,
+      "user_pitch": 436.5911865234375,
+      "ref_pitch": 345.82142514468603,
+      "cents_diff": 403.506904690172,
+      "abs_cents_diff": 403.506904690172
+    },
+    {
+      "frame": 212,
+      "timestamp": 6.752,
+      "user_pitch": 437.09869384765625,
+      "ref_pitch": 351.6833675541934,
+      "cents_diff": 376.41835318638545,
+      "abs_cents_diff": 376.41835318638545
+    },
+    {
+      "frame": 213,
+      "timestamp": 6.784,
+      "user_pitch": 436.447998046875,
+      "ref_pitch": 354.7130747936048,
+      "cents_diff": 358.98871252117686,
+      "abs_cents_diff": 358.98871252117686
+    },
+    {
+      "frame": 214,
+      "timestamp": 6.816,
+      "user_pitch": 437.4059143066406,
+      "ref_pitch": 354.4236951718497,
+      "cents_diff": 364.1972021448695,
+      "abs_cents_diff": 364.1972021448695
+    },
+    {
+      "frame": 215,
+      "timestamp": 6.848,
+      "user_pitch": 435.8040466308594,
+      "ref_pitch": 355.9460891857055,
+      "cents_diff": 350.425010712007,
+      "abs_cents_diff": 350.425010712007
+    },
+    {
+      "frame": 216,
+      "timestamp": 6.88,
+      "user_pitch": 990.5496826171875,
+      "ref_pitch": 345.1801924633749,
+      "cents_diff": 1825.0555885939254,
+      "abs_cents_diff": 1825.0555885939254
+    },
+    {
+      "frame": 217,
+      "timestamp": 6.912,
+      "user_pitch": 436.627685546875,
+      "ref_pitch": 344.8018147900705,
+      "cents_diff": 408.7634920888789,
+      "abs_cents_diff": 408.7634920888789
+    },
+    {
+      "frame": 218,
+      "timestamp": 6.944,
+      "user_pitch": 662.3753051757812,
+      "ref_pitch": 348.1087071091642,
+      "cents_diff": 1113.7331842462554,
+      "abs_cents_diff": 1113.7331842462554
+    },
+    {
+      "frame": 219,
+      "timestamp": 6.976,
+      "user_pitch": 440.8885498046875,
+      "ref_pitch": 344.3689926605968,
+      "cents_diff": 427.7505153255122,
+      "abs_cents_diff": 427.7505153255122
+    },
+    {
+      "frame": 220,
+      "timestamp": 7.008,
+      "user_pitch": 443.340087890625,
+      "ref_pitch": 352.5091681515082,
+      "cents_diff": 396.903648489877,
+      "abs_cents_diff": 396.903648489877
+    },
+    {
+      "frame": 221,
+      "timestamp": 7.04,
+      "user_pitch": 474.0595397949219,
+      "ref_pitch": 398.2561137108826,
+      "cents_diff": 301.646109160511,
+      "abs_cents_diff": 301.646109160511
+    },
+    {
+      "frame": 222,
+      "timestamp": 7.072,
+      "user_pitch": 472.4659118652344,
+      "ref_pitch": 393.5799268959504,
+      "cents_diff": 316.26432039236454,
+      "abs_cents_diff": 316.26432039236454
+    },
+    {
+      "frame": 223,
+      "timestamp": 7.104,
+      "user_pitch": 999.9934692382812,
+      "ref_pitch": 395.6766332746446,
+      "cents_diff": 1605.116164368959,
+      "abs_cents_diff": 1605.116164368959
+    },
+    {
+      "frame": 224,
+      "timestamp": 7.136,
+      "user_pitch": 963.254638671875,
+      "ref_pitch": 394.1947629569141,
+      "cents_diff": 1546.8103424150265,
+      "abs_cents_diff": 1546.8103424150265
+    },
+    {
+      "frame": 226,
+      "timestamp": 7.2,
+      "user_pitch": 241.1357421875,
+      "ref_pitch": 384.98545048587687,
+      "cents_diff": -809.950097578919,
+      "abs_cents_diff": 809.950097578919
+    },
+    {
+      "frame": 227,
+      "timestamp": 7.232,
+      "user_pitch": 390.2441711425781,
+      "ref_pitch": 385.96354384544657,
+      "cents_diff": 19.094999223186875,
+      "abs_cents_diff": 19.094999223186875
+    },
+    {
+      "frame": 229,
+      "timestamp": 7.296,
+      "user_pitch": 250.70620727539062,
+      "ref_pitch": 388.4873657915883,
+      "cents_diff": -758.2439570335243,
+      "abs_cents_diff": 758.2439570335243
+    },
+    {
+      "frame": 230,
+      "timestamp": 7.328,
+      "user_pitch": 591.2280883789062,
+      "ref_pitch": 399.4249952734662,
+      "cents_diff": 678.9482335882233,
+      "abs_cents_diff": 678.9482335882233
+    },
+    {
+      "frame": 231,
+      "timestamp": 7.36,
+      "user_pitch": 221.79806518554688,
+      "ref_pitch": 392.2740282278383,
+      "cents_diff": -987.1380477716459,
+      "abs_cents_diff": 987.1380477716459
+    },
+    {
+      "frame": 232,
+      "timestamp": 7.392,
+      "user_pitch": 315.681884765625,
+      "ref_pitch": 396.5666804715531,
+      "cents_diff": -394.9103912223228,
+      "abs_cents_diff": 394.9103912223228
+    },
+    {
+      "frame": 233,
+      "timestamp": 7.424,
+      "user_pitch": 458.6693115234375,
+      "ref_pitch": 387.85118051555503,
+      "cents_diff": 290.3414286145135,
+      "abs_cents_diff": 290.3414286145135
+    },
+    {
+      "frame": 234,
+      "timestamp": 7.456,
+      "user_pitch": 98.77066802978516,
+      "ref_pitch": 396.3045318010855,
+      "cents_diff": -2405.3458705293842,
+      "abs_cents_diff": 2405.3458705293842
+    },
+    {
+      "frame": 235,
+      "timestamp": 7.488,
+      "user_pitch": 850.1361694335938,
+      "ref_pitch": 390.2139658614168,
+      "cents_diff": 1348.1142338574537,
+      "abs_cents_diff": 1348.1142338574537
+    },
+    {
+      "frame": 236,
+      "timestamp": 7.52,
+      "user_pitch": 100.06263732910156,
+      "ref_pitch": 397.78961691293836,
+      "cents_diff": -2389.322684109458,
+      "abs_cents_diff": 2389.322684109458
+    },
+    {
+      "frame": 237,
+      "timestamp": 7.552,
+      "user_pitch": 662.79638671875,
+      "ref_pitch": 395.2316011067764,
+      "cents_diff": 895.0409208978846,
+      "abs_cents_diff": 895.0409208978846
+    },
+    {
+      "frame": 238,
+      "timestamp": 7.584,
+      "user_pitch": 290.59991455078125,
+      "ref_pitch": 393.00373021649307,
+      "cents_diff": -522.6104726560626,
+      "abs_cents_diff": 522.6104726560626
+    },
+    {
+      "frame": 239,
+      "timestamp": 7.616,
+      "user_pitch": 279.5792236328125,
+      "ref_pitch": 385.5447473268944,
+      "cents_diff": -556.3693908966411,
+      "abs_cents_diff": 556.3693908966411
+    },
+    {
+      "frame": 240,
+      "timestamp": 7.648,
+      "user_pitch": 190.3582763671875,
+      "ref_pitch": 398.56758603716884,
+      "cents_diff": -1279.3285075184572,
+      "abs_cents_diff": 1279.3285075184572
+    },
+    {
+      "frame": 241,
+      "timestamp": 7.68,
+      "user_pitch": 288.925537109375,
+      "ref_pitch": 442.463225156722,
+      "cents_diff": -737.8317934857603,
+      "abs_cents_diff": 737.8317934857603
+    },
+    {
+      "frame": 242,
+      "timestamp": 7.712,
+      "user_pitch": 283.9947814941406,
+      "ref_pitch": 443.3819673156483,
+      "cents_diff": -771.2228111404128,
+      "abs_cents_diff": 771.2228111404128
+    },
+    {
+      "frame": 243,
+      "timestamp": 7.744,
+      "user_pitch": 389.88970947265625,
+      "ref_pitch": 438.6887714730294,
+      "cents_diff": -204.1580430458056,
+      "abs_cents_diff": 204.1580430458056
+    },
+    {
+      "frame": 244,
+      "timestamp": 7.776,
+      "user_pitch": 388.48345947265625,
+      "ref_pitch": 436.4215005175661,
+      "cents_diff": -201.44280530493344,
+      "abs_cents_diff": 201.44280530493344
+    },
+    {
+      "frame": 245,
+      "timestamp": 7.808,
+      "user_pitch": 445.8346252441406,
+      "ref_pitch": 441.1102965263299,
+      "cents_diff": 18.443075519205518,
+      "abs_cents_diff": 18.443075519205518
+    },
+    {
+      "frame": 246,
+      "timestamp": 7.84,
+      "user_pitch": 1193.8680419921875,
+      "ref_pitch": 448.247631041937,
+      "cents_diff": 1695.9306251089106,
+      "abs_cents_diff": 1695.9306251089106
+    },
+    {
+      "frame": 247,
+      "timestamp": 7.872,
+      "user_pitch": 955.9713134765625,
+      "ref_pitch": 434.76587750814855,
+      "cents_diff": 1364.0743339369888,
+      "abs_cents_diff": 1364.0743339369888
+    },
+    {
+      "frame": 248,
+      "timestamp": 7.904,
+      "user_pitch": 1184.5191650390625,
+      "ref_pitch": 446.01569059127615,
+      "cents_diff": 1690.9622059235915,
+      "abs_cents_diff": 1690.9622059235915
+    },
+    {
+      "frame": 249,
+      "timestamp": 7.936,
+      "user_pitch": 365.30780029296875,
+      "ref_pitch": 441.859720249503,
+      "cents_diff": -329.3710346371519,
+      "abs_cents_diff": 329.3710346371519
+    },
+    {
+      "frame": 250,
+      "timestamp": 7.968,
+      "user_pitch": 886.0507202148438,
+      "ref_pitch": 436.4716225232256,
+      "cents_diff": 1225.8017114148124,
+      "abs_cents_diff": 1225.8017114148124
+    },
+    {
+      "frame": 251,
+      "timestamp": 8.0,
+      "user_pitch": 433.51922607421875,
+      "ref_pitch": 435.0815322513819,
+      "cents_diff": -6.227764688801656,
+      "abs_cents_diff": 6.227764688801656
+    },
+    {
+      "frame": 252,
+      "timestamp": 8.032,
+      "user_pitch": 844.007080078125,
+      "ref_pitch": 447.8158322828011,
+      "cents_diff": 1097.2194797529592,
+      "abs_cents_diff": 1097.2194797529592
+    },
+    {
+      "frame": 253,
+      "timestamp": 8.064,
+      "user_pitch": 748.4334106445312,
+      "ref_pitch": 447.0697468447962,
+      "cents_diff": 892.0488490187785,
+      "abs_cents_diff": 892.0488490187785
+    },
+    {
+      "frame": 254,
+      "timestamp": 8.096,
+      "user_pitch": 747.4773559570312,
+      "ref_pitch": 439.49142498626725,
+      "cents_diff": 919.4338297623696,
+      "abs_cents_diff": 919.4338297623696
+    },
+    {
+      "frame": 255,
+      "timestamp": 8.128,
+      "user_pitch": 357.66229248046875,
+      "ref_pitch": 444.17442391788234,
+      "cents_diff": -375.033956288953,
+      "abs_cents_diff": 375.033956288953
+    },
+    {
+      "frame": 256,
+      "timestamp": 8.16,
+      "user_pitch": 369.13427734375,
+      "ref_pitch": 447.08965726031744,
+      "cents_diff": -331.70215327501154,
+      "abs_cents_diff": 331.70215327501154
+    },
+    {
+      "frame": 257,
+      "timestamp": 8.192,
+      "user_pitch": 1113.888427734375,
+      "ref_pitch": 439.7775123605601,
+      "cents_diff": 1608.9107911251604,
+      "abs_cents_diff": 1608.9107911251604
+    },
+    {
+      "frame": 258,
+      "timestamp": 8.224,
+      "user_pitch": 468.4354553222656,
+      "ref_pitch": 435.87342652530435,
+      "cents_diff": 124.7292298400496,
+      "abs_cents_diff": 124.7292298400496
+    },
+    {
+      "frame": 259,
+      "timestamp": 8.256,
+      "user_pitch": 608.9915161132812,
+      "ref_pitch": 436.39181696575764,
+      "cents_diff": 576.9576970990738,
+      "abs_cents_diff": 576.9576970990738
+    },
+    {
+      "frame": 260,
+      "timestamp": 8.288,
+      "user_pitch": 749.785400390625,
+      "ref_pitch": 444.0190107136971,
+      "cents_diff": 907.0275445612572,
+      "abs_cents_diff": 907.0275445612572
+    },
+    {
+      "frame": 261,
+      "timestamp": 8.32,
+      "user_pitch": 460.660400390625,
+      "ref_pitch": 487.4120814726432,
+      "cents_diff": -97.72611148333648,
+      "abs_cents_diff": 97.72611148333648
+    },
+    {
+      "frame": 262,
+      "timestamp": 8.352,
+      "user_pitch": 583.1622924804688,
+      "ref_pitch": 498.82214715494354,
+      "cents_diff": 270.4463000977422,
+      "abs_cents_diff": 270.4463000977422
+    },
+    {
+      "frame": 263,
+      "timestamp": 8.384,
+      "user_pitch": 354.86688232421875,
+      "ref_pitch": 498.9176570587914,
+      "cents_diff": -589.8285431860198,
+      "abs_cents_diff": 589.8285431860198
+    },
+    {
+      "frame": 264,
+      "timestamp": 8.416,
+      "user_pitch": 740.33837890625,
+      "ref_pitch": 492.9911368701894,
+      "cents_diff": 703.9477316485142,
+      "abs_cents_diff": 703.9477316485142
+    },
+    {
+      "frame": 265,
+      "timestamp": 8.448,
+      "user_pitch": 1117.0733642578125,
+      "ref_pitch": 492.73203154592244,
+      "cents_diff": 1417.0185263215067,
+      "abs_cents_diff": 1417.0185263215067
+    },
+    {
+      "frame": 267,
+      "timestamp": 8.512,
+      "user_pitch": 290.951416015625,
+      "ref_pitch": 494.7724405273105,
+      "cents_diff": -919.1842500832458,
+      "abs_cents_diff": 919.1842500832458
+    },
+    {
+      "frame": 271,
+      "timestamp": 8.64,
+      "user_pitch": 289.2540283203125,
+      "ref_pitch": 501.75962765131766,
+      "cents_diff": -953.5912112128699,
+      "abs_cents_diff": 953.5912112128699
+    },
+    {
+      "frame": 273,
+      "timestamp": 8.704,
+      "user_pitch": 1110.71533203125,
+      "ref_pitch": 484.28606135257206,
+      "cents_diff": 1437.0692724162755,
+      "abs_cents_diff": 1437.0692724162755
+    },
+    {
+      "frame": 274,
+      "timestamp": 8.736,
+      "user_pitch": 370.75811767578125,
+      "ref_pitch": 496.6329665784438,
+      "cents_diff": -506.04210057598425,
+      "abs_cents_diff": 506.04210057598425
+    },
+    {
+      "frame": 275,
+      "timestamp": 8.768,
+      "user_pitch": 340.5727844238281,
+      "ref_pitch": 489.88180877145095,
+      "cents_diff": -629.3646810679911,
+      "abs_cents_diff": 629.3646810679911
+    },
+    {
+      "frame": 276,
+      "timestamp": 8.8,
+      "user_pitch": 289.981201171875,
+      "ref_pitch": 487.69870839829935,
+      "cents_diff": -900.0369300018227,
+      "abs_cents_diff": 900.0369300018227
+    },
+    {
+      "frame": 277,
+      "timestamp": 8.832,
+      "user_pitch": 289.3023376464844,
+      "ref_pitch": 490.39367550407286,
+      "cents_diff": -913.6348707969162,
+      "abs_cents_diff": 913.6348707969162
+    },
+    {
+      "frame": 280,
+      "timestamp": 8.928,
+      "user_pitch": 956.3131103515625,
+      "ref_pitch": 498.8436805646894,
+      "cents_diff": 1126.674307038148,
+      "abs_cents_diff": 1126.674307038148
+    },
+    {
+      "frame": 281,
+      "timestamp": 8.96,
+      "user_pitch": 437.2183837890625,
+      "ref_pitch": 262.0839221814266,
+      "cents_diff": 885.990252955923,
+      "abs_cents_diff": 885.990252955923
+    },
+    {
+      "frame": 282,
+      "timestamp": 8.992,
+      "user_pitch": 435.0381774902344,
+      "ref_pitch": 256.8935537943983,
+      "cents_diff": 911.9655879699696,
+      "abs_cents_diff": 911.9655879699696
+    },
+    {
+      "frame": 283,
+      "timestamp": 9.024,
+      "user_pitch": 966.7138671875,
+      "ref_pitch": 266.48949595347926,
+      "cents_diff": 2230.8123221588535,
+      "abs_cents_diff": 2230.8123221588535
+    },
+    {
+      "frame": 284,
+      "timestamp": 9.056,
+      "user_pitch": 994.6207275390625,
+      "ref_pitch": 265.64476604286267,
+      "cents_diff": 2285.5778505646826,
+      "abs_cents_diff": 2285.5778505646826
+    },
+    {
+      "frame": 285,
+      "timestamp": 9.088,
+      "user_pitch": 994.4019165039062,
+      "ref_pitch": 257.8883580203093,
+      "cents_diff": 2336.498916691952,
+      "abs_cents_diff": 2336.498916691952
+    },
+    {
+      "frame": 286,
+      "timestamp": 9.12,
+      "user_pitch": 995.0015869140625,
+      "ref_pitch": 260.58051607370635,
+      "cents_diff": 2319.563532887378,
+      "abs_cents_diff": 2319.563532887378
+    },
+    {
+      "frame": 287,
+      "timestamp": 9.152,
+      "user_pitch": 995.9698486328125,
+      "ref_pitch": 259.0358945439092,
+      "cents_diff": 2331.5400504322697,
+      "abs_cents_diff": 2331.5400504322697
+    },
+    {
+      "frame": 288,
+      "timestamp": 9.184,
+      "user_pitch": 738.5205688476562,
+      "ref_pitch": 259.09757691992957,
+      "cents_diff": 1813.3710949891608,
+      "abs_cents_diff": 1813.3710949891608
+    },
+    {
+      "frame": 289,
+      "timestamp": 9.216,
+      "user_pitch": 437.68994140625,
+      "ref_pitch": 258.443277211888,
+      "cents_diff": 912.0738661927932,
+      "abs_cents_diff": 912.0738661927932
+    },
+    {
+      "frame": 290,
+      "timestamp": 9.248,
+      "user_pitch": 822.1298828125,
+      "ref_pitch": 261.97562335068346,
+      "cents_diff": 1979.9205089200093,
+      "abs_cents_diff": 1979.9205089200093
+    },
+    {
+      "frame": 291,
+      "timestamp": 9.28,
+      "user_pitch": 1023.0914916992188,
+      "ref_pitch": 264.38692317196967,
+      "cents_diff": 2342.654927587255,
+      "abs_cents_diff": 2342.654927587255
+    },
+    {
+      "frame": 292,
+      "timestamp": 9.312,
+      "user_pitch": 1187.22607421875,
+      "ref_pitch": 259.67135474278774,
+      "cents_diff": 2631.4030837975556,
+      "abs_cents_diff": 2631.4030837975556
+    },
+    {
+      "frame": 293,
+      "timestamp": 9.344,
+      "user_pitch": 371.1190490722656,
+      "ref_pitch": 260.0190954448439,
+      "cents_diff": 615.917373560018,
+      "abs_cents_diff": 615.917373560018
+    },
+    {
+      "frame": 294,
+      "timestamp": 9.376,
+      "user_pitch": 378.85247802734375,
+      "ref_pitch": 262.16427864106487,
+      "cents_diff": 637.398072939892,
+      "abs_cents_diff": 637.398072939892
+    },
+    {
+      "frame": 295,
+      "timestamp": 9.408,
+      "user_pitch": 377.326171875,
+      "ref_pitch": 258.62867862375276,
+      "cents_diff": 653.9158925651403,
+      "abs_cents_diff": 653.9158925651403
+    },
+    {
+      "frame": 296,
+      "timestamp": 9.44,
+      "user_pitch": 370.4297180175781,
+      "ref_pitch": 257.4357424521956,
+      "cents_diff": 629.9849675232454,
+      "abs_cents_diff": 629.9849675232454
+    },
+    {
+      "frame": 297,
+      "timestamp": 9.472,
+      "user_pitch": 372.41448974609375,
+      "ref_pitch": 256.57873515679404,
+      "cents_diff": 645.0091184161,
+      "abs_cents_diff": 645.0091184161
+    },
+    {
+      "frame": 298,
+      "timestamp": 9.504,
+      "user_pitch": 369.5692138671875,
+      "ref_pitch": 265.00138144470424,
+      "cents_diff": 575.8136410408216,
+      "abs_cents_diff": 575.8136410408216
+    },
+    {
+      "frame": 299,
+      "timestamp": 9.536,
+      "user_pitch": 474.14251708984375,
+      "ref_pitch": 257.58760336458226,
+      "cents_diff": 1056.3091241119348,
+      "abs_cents_diff": 1056.3091241119348
+    },
+    {
+      "frame": 300,
+      "timestamp": 9.568,
+      "user_pitch": 390.8472595214844,
+      "ref_pitch": 258.59874833370753,
+      "cents_diff": 715.0675558849134,
+      "abs_cents_diff": 715.0675558849134
+    },
+    {
+      "frame": 301,
+      "timestamp": 9.6,
+      "user_pitch": 370.06597900390625,
+      "ref_pitch": 287.9240814793826,
+      "cents_diff": 434.5128636469949,
+      "abs_cents_diff": 434.5128636469949
+    },
+    {
+      "frame": 302,
+      "timestamp": 9.632,
+      "user_pitch": 348.3890686035156,
+      "ref_pitch": 290.7709885277001,
+      "cents_diff": 312.979229624491,
+      "abs_cents_diff": 312.979229624491
+    },
+    {
+      "frame": 303,
+      "timestamp": 9.664,
+      "user_pitch": 303.36517333984375,
+      "ref_pitch": 296.01089219445834,
+      "cents_diff": 42.48625078578877,
+      "abs_cents_diff": 42.48625078578877
+    },
+    {
+      "frame": 304,
+      "timestamp": 9.696,
+      "user_pitch": 1003.290283203125,
+      "ref_pitch": 298.2481886785419,
+      "cents_diff": 2100.1845621413404,
+      "abs_cents_diff": 2100.1845621413404
+    },
+    {
+      "frame": 305,
+      "timestamp": 9.728,
+      "user_pitch": 325.9302978515625,
+      "ref_pitch": 291.75087688482006,
+      "cents_diff": 191.79177163432448,
+      "abs_cents_diff": 191.79177163432448
+    },
+    {
+      "frame": 306,
+      "timestamp": 9.76,
+      "user_pitch": 329.121826171875,
+      "ref_pitch": 294.46313085222624,
+      "cents_diff": 192.6416347210047,
+      "abs_cents_diff": 192.6416347210047
+    },
+    {
+      "frame": 307,
+      "timestamp": 9.792,
+      "user_pitch": 328.49530029296875,
+      "ref_pitch": 290.5116767455134,
+      "cents_diff": 212.73189397127064,
+      "abs_cents_diff": 212.73189397127064
+    },
+    {
+      "frame": 308,
+      "timestamp": 9.824,
+      "user_pitch": 328.8360900878906,
+      "ref_pitch": 289.78214023160746,
+      "cents_diff": 218.87995565989644,
+      "abs_cents_diff": 218.87995565989644
+    },
+    {
+      "frame": 309,
+      "timestamp": 9.856,
+      "user_pitch": 329.253662109375,
+      "ref_pitch": 291.84113649516183,
+      "cents_diff": 208.8194808927401,
+      "abs_cents_diff": 208.8194808927401
+    },
+    {
+      "frame": 310,
+      "timestamp": 9.888,
+      "user_pitch": 328.2168884277344,
+      "ref_pitch": 290.989550678435,
+      "cents_diff": 208.4185527729398,
+      "abs_cents_diff": 208.4185527729398
+    },
+    {
+      "frame": 311,
+      "timestamp": 9.92,
+      "user_pitch": 329.0291442871094,
+      "ref_pitch": 293.6996617311918,
+      "cents_diff": 196.64852954616663,
+      "abs_cents_diff": 196.64852954616663
+    },
+    {
+      "frame": 312,
+      "timestamp": 9.952,
+      "user_pitch": 328.7699890136719,
+      "ref_pitch": 297.84615543880346,
+      "cents_diff": 171.01352996632392,
+      "abs_cents_diff": 171.01352996632392
+    },
+    {
+      "frame": 313,
+      "timestamp": 9.984,
+      "user_pitch": 328.32513427734375,
+      "ref_pitch": 290.1732431036707,
+      "cents_diff": 213.85284271914315,
+      "abs_cents_diff": 213.85284271914315
+    },
+    {
+      "frame": 314,
+      "timestamp": 10.016,
+      "user_pitch": 326.1517333984375,
+      "ref_pitch": 289.6903490836976,
+      "cents_diff": 205.23800810696525,
+      "abs_cents_diff": 205.23800810696525
+    },
+    {
+      "frame": 315,
+      "timestamp": 10.048,
+      "user_pitch": 327.85479736328125,
+      "ref_pitch": 288.78571679860346,
+      "cents_diff": 219.66913965783564,
+      "abs_cents_diff": 219.66913965783564
+    },
+    {
+      "frame": 316,
+      "timestamp": 10.08,
+      "user_pitch": 328.74481201171875,
+      "ref_pitch": 298.4334697116294,
+      "cents_diff": 167.4705387395909,
+      "abs_cents_diff": 167.4705387395909
+    },
+    {
+      "frame": 317,
+      "timestamp": 10.112,
+      "user_pitch": 329.49517822265625,
+      "ref_pitch": 291.32658085384713,
+      "cents_diff": 213.1440158133994,
+      "abs_cents_diff": 213.1440158133994
+    },
+    {
+      "frame": 318,
+      "timestamp": 10.144,
+      "user_pitch": 285.78515625,
+      "ref_pitch": 289.6310954745257,
+      "cents_diff": -23.142620895312692,
+      "abs_cents_diff": 23.142620895312692
+    },
+    {
+      "frame": 319,
+      "timestamp": 10.176,
+      "user_pitch": 1006.104736328125,
+      "ref_pitch": 289.13767559457034,
+      "cents_diff": 2158.7423815086577,
+      "abs_cents_diff": 2158.7423815086577
+    },
+    {
+      "frame": 320,
+      "timestamp": 10.208,
+      "user_pitch": 387.24920654296875,
+      "ref_pitch": 289.8382172581023,
+      "cents_diff": 501.6173349839069,
+      "abs_cents_diff": 501.6173349839069
+    },
+    {
+      "frame": 323,
+      "timestamp": 10.304,
+      "user_pitch": 588.1629028320312,
+      "ref_pitch": 323.3311561335331,
+      "cents_diff": 1035.8439120746277,
+      "abs_cents_diff": 1035.8439120746277
+    },
+    {
+      "frame": 324,
+      "timestamp": 10.336,
+      "user_pitch": 289.9060974121094,
+      "ref_pitch": 332.5436633204122,
+      "cents_diff": -237.54972403235828,
+      "abs_cents_diff": 237.54972403235828
+    },
+    {
+      "frame": 325,
+      "timestamp": 10.368,
+      "user_pitch": 293.065673828125,
+      "ref_pitch": 332.7421864351792,
+      "cents_diff": -219.81694874745548,
+      "abs_cents_diff": 219.81694874745548
+    },
+    {
+      "frame": 326,
+      "timestamp": 10.4,
+      "user_pitch": 292.25372314453125,
+      "ref_pitch": 336.0371616583871,
+      "cents_diff": -241.6792590277335,
+      "abs_cents_diff": 241.6792590277335
+    },
+    {
+      "frame": 327,
+      "timestamp": 10.432,
+      "user_pitch": 913.3836059570312,
+      "ref_pitch": 330.9196340542274,
+      "cents_diff": 1757.6880043050992,
+      "abs_cents_diff": 1757.6880043050992
+    },
+    {
+      "frame": 328,
+      "timestamp": 10.464,
+      "user_pitch": 734.80810546875,
+      "ref_pitch": 330.3537705721142,
+      "cents_diff": 1384.0268749906295,
+      "abs_cents_diff": 1384.0268749906295
+    },
+    {
+      "frame": 329,
+      "timestamp": 10.496,
+      "user_pitch": 215.10269165039062,
+      "ref_pitch": 333.46069878221743,
+      "cents_diff": -758.9893915119,
+      "abs_cents_diff": 758.9893915119
+    },
+    {
+      "frame": 330,
+      "timestamp": 10.528,
+      "user_pitch": 214.8025360107422,
+      "ref_pitch": 323.90810311929465,
+      "cents_diff": -711.0882406271752,
+      "abs_cents_diff": 711.0882406271752
+    },
+    {
+      "frame": 331,
+      "timestamp": 10.56,
+      "user_pitch": 218.93743896484375,
+      "ref_pitch": 331.7796273780404,
+      "cents_diff": -719.6479449852079,
+      "abs_cents_diff": 719.6479449852079
+    },
+    {
+      "frame": 332,
+      "timestamp": 10.592,
+      "user_pitch": 215.35183715820312,
+      "ref_pitch": 329.78451809554747,
+      "cents_diff": -737.7936493124209,
+      "abs_cents_diff": 737.7936493124209
+    },
+    {
+      "frame": 333,
+      "timestamp": 10.624,
+      "user_pitch": 220.07394409179688,
+      "ref_pitch": 323.05842088596296,
+      "cents_diff": -664.5680822682777,
+      "abs_cents_diff": 664.5680822682777
+    },
+    {
+      "frame": 334,
+      "timestamp": 10.656,
+      "user_pitch": 216.92532348632812,
+      "ref_pitch": 334.53960771125213,
+      "cents_diff": -749.9742574111582,
+      "abs_cents_diff": 749.9742574111582
+    },
+    {
+      "frame": 335,
+      "timestamp": 10.688,
+      "user_pitch": 876.6732177734375,
+      "ref_pitch": 323.8213416387535,
+      "cents_diff": 1724.2093249017548,
+      "abs_cents_diff": 1724.2093249017548
+    },
+    {
+      "frame": 336,
+      "timestamp": 10.72,
+      "user_pitch": 212.63441467285156,
+      "ref_pitch": 323.56776431635177,
+      "cents_diff": -726.8313249443626,
+      "abs_cents_diff": 726.8313249443626
+    },
+    {
+      "frame": 338,
+      "timestamp": 10.784,
+      "user_pitch": 1024.7119140625,
+      "ref_pitch": 334.51433163195003,
+      "cents_diff": 1938.0941313906121,
+      "abs_cents_diff": 1938.0941313906121
+    },
+    {
+      "frame": 340,
+      "timestamp": 10.848,
+      "user_pitch": 651.2168579101562,
+      "ref_pitch": 334.4158463203648,
+      "cents_diff": 1153.7938026834213,
+      "abs_cents_diff": 1153.7938026834213
+    },
+    {
+      "frame": 341,
+      "timestamp": 10.88,
+      "user_pitch": 728.6348876953125,
+      "ref_pitch": 345.73120513609587,
+      "cents_diff": 1290.6542993871437,
+      "abs_cents_diff": 1290.6542993871437
+    },
+    {
+      "frame": 342,
+      "timestamp": 10.912,
+      "user_pitch": 269.373046875,
+      "ref_pitch": 345.6149302844655,
+      "cents_diff": -431.4720459773096,
+      "abs_cents_diff": 431.4720459773096
+    },
+    {
+      "frame": 344,
+      "timestamp": 10.976,
+      "user_pitch": 743.2723388671875,
+      "ref_pitch": 350.11247039462853,
+      "cents_diff": 1303.286963603965,
+      "abs_cents_diff": 1303.286963603965
+    },
+    {
+      "frame": 345,
+      "timestamp": 11.008,
+      "user_pitch": 671.879150390625,
+      "ref_pitch": 347.1800705227764,
+      "cents_diff": 1143.0211532018222,
+      "abs_cents_diff": 1143.0211532018222
+    },
+    {
+      "frame": 349,
+      "timestamp": 11.136,
+      "user_pitch": 713.4619750976562,
+      "ref_pitch": 346.4885924749798,
+      "cents_diff": 1250.4344237354028,
+      "abs_cents_diff": 1250.4344237354028
+    },
+    {
+      "frame": 350,
+      "timestamp": 11.168,
+      "user_pitch": 817.9867553710938,
+      "ref_pitch": 343.6828779556932,
+      "cents_diff": 1501.1994050232022,
+      "abs_cents_diff": 1501.1994050232022
+    },
+    {
+      "frame": 351,
+      "timestamp": 11.2,
+      "user_pitch": 437.2152404785156,
+      "ref_pitch": 354.40369121335084,
+      "cents_diff": 363.54007368635064,
+      "abs_cents_diff": 363.54007368635064
+    },
+    {
+      "frame": 352,
+      "timestamp": 11.232,
+      "user_pitch": 437.2923583984375,
+      "ref_pitch": 353.0413171814522,
+      "cents_diff": 370.51332329735834,
+      "abs_cents_diff": 370.51332329735834
+    },
+    {
+      "frame": 353,
+      "timestamp": 11.264,
+      "user_pitch": 437.0245056152344,
+      "ref_pitch": 346.30849564093705,
+      "cents_diff": 402.78767902569103,
+      "abs_cents_diff": 402.78767902569103
+    },
+    {
+      "frame": 354,
+      "timestamp": 11.296,
+      "user_pitch": 435.4803771972656,
+      "ref_pitch": 343.33529163873027,
+      "cents_diff": 411.58746223594227,
+      "abs_cents_diff": 411.58746223594227
+    },
+    {
+      "frame": 355,
+      "timestamp": 11.328,
+      "user_pitch": 656.7501220703125,
+      "ref_pitch": 349.2282750631816,
+      "cents_diff": 1093.4090314272269,
+      "abs_cents_diff": 1093.4090314272269
+    },
+    {
+      "frame": 357,
+      "timestamp": 11.392,
+      "user_pitch": 769.6995849609375,
+      "ref_pitch": 343.6750243925713,
+      "cents_diff": 1395.9005491452588,
+      "abs_cents_diff": 1395.9005491452588
+    },
+    {
+      "frame": 360,
+      "timestamp": 11.488,
+      "user_pitch": 824.158935546875,
+      "ref_pitch": 349.04532482918063,
+      "cents_diff": 1487.4098327349789,
+      "abs_cents_diff": 1487.4098327349789
+    },
+    {
+      "frame": 361,
+      "timestamp": 11.52,
+      "user_pitch": 435.5964050292969,
+      "ref_pitch": 398.6699043755513,
+      "cents_diff": 153.35681674396227,
+      "abs_cents_diff": 153.35681674396227
+    },
+    {
+      "frame": 363,
+      "timestamp": 11.584,
+      "user_pitch": 436.38665771484375,
+      "ref_pitch": 387.8006256408659,
+      "cents_diff": 204.35023411653813,
+      "abs_cents_diff": 204.35023411653813
+    },
+    {
+      "frame": 365,
+      "timestamp": 11.648,
+      "user_pitch": 436.2149658203125,
+      "ref_pitch": 399.6216389885785,
+      "cents_diff": 151.68547444338407,
+      "abs_cents_diff": 151.68547444338407
+    },
+    {
+      "frame": 368,
+      "timestamp": 11.744,
+      "user_pitch": 82.93099975585938,
+      "ref_pitch": 385.7834183043303,
+      "cents_diff": -2661.369294411978,
+      "abs_cents_diff": 2661.369294411978
+    },
+    {
+      "frame": 370,
+      "timestamp": 11.808,
+      "user_pitch": 858.80712890625,
+      "ref_pitch": 396.68457778641636,
+      "cents_diff": 1337.2102286041313,
+      "abs_cents_diff": 1337.2102286041313
+    },
+    {
+      "frame": 371,
+      "timestamp": 11.84,
+      "user_pitch": 137.95887756347656,
+      "ref_pitch": 396.5649704399477,
+      "cents_diff": -1827.9827402765982,
+      "abs_cents_diff": 1827.9827402765982
+    },
+    {
+      "frame": 372,
+      "timestamp": 11.872,
+      "user_pitch": 1005.864501953125,
+      "ref_pitch": 397.03346345278044,
+      "cents_diff": 1609.3241547606224,
+      "abs_cents_diff": 1609.3241547606224
+    },
+    {
+      "frame": 377,
+      "timestamp": 12.032,
+      "user_pitch": 202.03199768066406,
+      "ref_pitch": 395.17220285310975,
+      "cents_diff": -1161.4771974948646,
+      "abs_cents_diff": 1161.4771974948646
+    },
+    {
+      "frame": 378,
+      "timestamp": 12.064,
+      "user_pitch": 208.85235595703125,
+      "ref_pitch": 385.709886616232,
+      "cents_diff": -1062.0392496902507,
+      "abs_cents_diff": 1062.0392496902507
+    },
+    {
+      "frame": 379,
+      "timestamp": 12.096,
+      "user_pitch": 218.7259521484375,
+      "ref_pitch": 395.6591226129125,
+      "cents_diff": -1026.1603356998419,
+      "abs_cents_diff": 1026.1603356998419
+    },
+    {
+      "frame": 380,
+      "timestamp": 12.128,
+      "user_pitch": 219.47085571289062,
+      "ref_pitch": 389.0745148200705,
+      "cents_diff": -991.220534227265,
+      "abs_cents_diff": 991.220534227265
+    },
+    {
+      "frame": 381,
+      "timestamp": 12.16,
+      "user_pitch": 219.8715057373047,
+      "ref_pitch": 437.90681253118095,
+      "cents_diff": -1192.7558926510235,
+      "abs_cents_diff": 1192.7558926510235
+    },
+    {
+      "frame": 382,
+      "timestamp": 12.192,
+      "user_pitch": 219.4822998046875,
+      "ref_pitch": 438.25791515479557,
+      "cents_diff": -1197.2106587923017,
+      "abs_cents_diff": 1197.2106587923017
+    },
+    {
+      "frame": 383,
+      "timestamp": 12.224,
+      "user_pitch": 222.67092895507812,
+      "ref_pitch": 431.9561122705057,
+      "cents_diff": -1147.1658250978023,
+      "abs_cents_diff": 1147.1658250978023
+    },
+    {
+      "frame": 384,
+      "timestamp": 12.256,
+      "user_pitch": 268.633544921875,
+      "ref_pitch": 435.37500405678117,
+      "cents_diff": -835.9429348967282,
+      "abs_cents_diff": 835.9429348967282
+    },
+    {
+      "frame": 385,
+      "timestamp": 12.288,
+      "user_pitch": 435.37750244140625,
+      "ref_pitch": 433.51601287320455,
+      "cents_diff": 7.417891826968952,
+      "abs_cents_diff": 7.417891826968952
+    },
+    {
+      "frame": 387,
+      "timestamp": 12.352,
+      "user_pitch": 798.4938354492188,
+      "ref_pitch": 440.08820145671893,
+      "cents_diff": 1031.3862905146143,
+      "abs_cents_diff": 1031.3862905146143
+    },
+    {
+      "frame": 388,
+      "timestamp": 12.384,
+      "user_pitch": 199.15928649902344,
+      "ref_pitch": 447.9414220477891,
+      "cents_diff": -1403.2647951695058,
+      "abs_cents_diff": 1403.2647951695058
+    },
+    {
+      "frame": 389,
+      "timestamp": 12.416,
+      "user_pitch": 807.5113525390625,
+      "ref_pitch": 446.01855387060516,
+      "cents_diff": 1027.6545797309793,
+      "abs_cents_diff": 1027.6545797309793
+    },
+    {
+      "frame": 390,
+      "timestamp": 12.448,
+      "user_pitch": 780.5966796875,
+      "ref_pitch": 440.349026610198,
+      "cents_diff": 991.115819260598,
+      "abs_cents_diff": 991.115819260598
+    },
+    {
+      "frame": 391,
+      "timestamp": 12.48,
+      "user_pitch": 97.57647705078125,
+      "ref_pitch": 435.46083045355755,
+      "cents_diff": -2589.525183853865,
+      "abs_cents_diff": 2589.525183853865
+    },
+    {
+      "frame": 392,
+      "timestamp": 12.512,
+      "user_pitch": 363.020263671875,
+      "ref_pitch": 446.6203982417799,
+      "cents_diff": -358.79887539694664,
+      "abs_cents_diff": 358.79887539694664
+    },
+    {
+      "frame": 393,
+      "timestamp": 12.544,
+      "user_pitch": 550.291748046875,
+      "ref_pitch": 440.4305804822893,
+      "cents_diff": 385.53846181937917,
+      "abs_cents_diff": 385.53846181937917
+    },
+    {
+      "frame": 394,
+      "timestamp": 12.576,
+      "user_pitch": 1003.1170654296875,
+      "ref_pitch": 433.4791082558391,
+      "cents_diff": 1452.5467342381246,
+      "abs_cents_diff": 1452.5467342381246
+    },
+    {
+      "frame": 395,
+      "timestamp": 12.608,
+      "user_pitch": 97.31077575683594,
+      "ref_pitch": 440.88009087826805,
+      "cents_diff": -2615.657823781664,
+      "abs_cents_diff": 2615.657823781664
+    },
+    {
+      "frame": 396,
+      "timestamp": 12.64,
+      "user_pitch": 99.0710220336914,
+      "ref_pitch": 438.33348239457035,
+      "cents_diff": -2574.5926126615154,
+      "abs_cents_diff": 2574.5926126615154
+    },
+    {
+      "frame": 397,
+      "timestamp": 12.672,
+      "user_pitch": 98.1178970336914,
+      "ref_pitch": 441.8557734098674,
+      "cents_diff": -2605.1847803161545,
+      "abs_cents_diff": 2605.1847803161545
+    },
+    {
+      "frame": 398,
+      "timestamp": 12.704,
+      "user_pitch": 97.72457885742188,
+      "ref_pitch": 432.6575215924506,
+      "cents_diff": -2575.718539485764,
+      "abs_cents_diff": 2575.718539485764
+    },
+    {
+      "frame": 399,
+      "timestamp": 12.736,
+      "user_pitch": 98.6494369506836,
+      "ref_pitch": 446.1055443263922,
+      "cents_diff": -2612.402827986609,
+      "abs_cents_diff": 2612.402827986609
+    },
+    {
+      "frame": 400,
+      "timestamp": 12.768,
+      "user_pitch": 99.01062774658203,
+      "ref_pitch": 443.2350614265913,
+      "cents_diff": -2594.9000536281014,
+      "abs_cents_diff": 2594.9000536281014
+    },
+    {
+      "frame": 401,
+      "timestamp": 12.8,
+      "user_pitch": 98.99198913574219,
+      "ref_pitch": 496.748918157148,
+      "cents_diff": -2792.5597676009284,
+      "abs_cents_diff": 2792.5597676009284
+    },
+    {
+      "frame": 402,
+      "timestamp": 12.832,
+      "user_pitch": 98.96202850341797,
+      "ref_pitch": 488.9469539980153,
+      "cents_diff": -2765.6771729410057,
+      "abs_cents_diff": 2765.6771729410057
+    },
+    {
+      "frame": 403,
+      "timestamp": 12.864,
+      "user_pitch": 194.43637084960938,
+      "ref_pitch": 501.5450365560381,
+      "cents_diff": -1640.4973713044708,
+      "abs_cents_diff": 1640.4973713044708
+    },
+    {
+      "frame": 404,
+      "timestamp": 12.896,
+      "user_pitch": 195.88528442382812,
+      "ref_pitch": 503.1691804001041,
+      "cents_diff": -1633.2414443884736,
+      "abs_cents_diff": 1633.2414443884736
+    },
+    {
+      "frame": 405,
+      "timestamp": 12.928,
+      "user_pitch": 1100.7503662109375,
+      "ref_pitch": 500.4889333137409,
+      "cents_diff": 1364.4927002806148,
+      "abs_cents_diff": 1364.4927002806148
+    },
+    {
+      "frame": 406,
+      "timestamp": 12.96,
+      "user_pitch": 215.3212127685547,
+      "ref_pitch": 499.858066944558,
+      "cents_diff": -1458.0336578830247,
+      "abs_cents_diff": 1458.0336578830247
+    },
+    {
+      "frame": 407,
+      "timestamp": 12.992,
+      "user_pitch": 183.86550903320312,
+      "ref_pitch": 499.47831909154996,
+      "cents_diff": -1730.125420002992,
+      "abs_cents_diff": 1730.125420002992
+    },
+    {
+      "frame": 408,
+      "timestamp": 13.024,
+      "user_pitch": 532.9027099609375,
+      "ref_pitch": 486.3345692620831,
+      "cents_diff": 158.30763103352652,
+      "abs_cents_diff": 158.30763103352652
+    },
+    {
+      "frame": 409,
+      "timestamp": 13.056,
+      "user_pitch": 146.86587524414062,
+      "ref_pitch": 485.64028227629757,
+      "cents_diff": -2070.4666480517662,
+      "abs_cents_diff": 2070.4666480517662
+    },
+    {
+      "frame": 410,
+      "timestamp": 13.088,
+      "user_pitch": 248.1199493408203,
+      "ref_pitch": 492.94670266678946,
+      "cents_diff": -1188.4727226853995,
+      "abs_cents_diff": 1188.4727226853995
+    },
+    {
+      "frame": 411,
+      "timestamp": 13.12,
+      "user_pitch": 245.2293701171875,
+      "ref_pitch": 484.2131091310996,
+      "cents_diff": -1177.8124355813502,
+      "abs_cents_diff": 1177.8124355813502
+    },
+    {
+      "frame": 412,
+      "timestamp": 13.152,
+      "user_pitch": 243.51707458496094,
+      "ref_pitch": 493.15565883496674,
+      "cents_diff": -1221.6241867883853,
+      "abs_cents_diff": 1221.6241867883853
+    },
+    {
+      "frame": 413,
+      "timestamp": 13.184,
+      "user_pitch": 248.91293334960938,
+      "ref_pitch": 496.4264743658583,
+      "cents_diff": -1195.1266350498079,
+      "abs_cents_diff": 1195.1266350498079
+    },
+    {
+      "frame": 414,
+      "timestamp": 13.216,
+      "user_pitch": 1023.3712158203125,
+      "ref_pitch": 490.76795942061983,
+      "cents_diff": 1272.259910513406,
+      "abs_cents_diff": 1272.259910513406
+    },
+    {
+      "frame": 416,
+      "timestamp": 13.28,
+      "user_pitch": 92.1966781616211,
+      "ref_pitch": 488.57555567145096,
+      "cents_diff": -2886.9540098568064,
+      "abs_cents_diff": 2886.9540098568064
+    },
+    {
+      "frame": 417,
+      "timestamp": 13.312,
+      "user_pitch": 91.61448669433594,
+      "ref_pitch": 498.39057315882684,
+      "cents_diff": -2932.354956748912,
+      "abs_cents_diff": 2932.354956748912
+    },
+    {
+      "frame": 418,
+      "timestamp": 13.344,
+      "user_pitch": 699.25634765625,
+      "ref_pitch": 489.7842788990878,
+      "cents_diff": 616.4099737728209,
+      "abs_cents_diff": 616.4099737728209
+    },
+    {
+      "frame": 421,
+      "timestamp": 13.44,
+      "user_pitch": 561.6732177734375,
+      "ref_pitch": 261.0892200260139,
+      "cents_diff": 1326.2257444959005,
+      "abs_cents_diff": 1326.2257444959005
+    },
+    {
+      "frame": 423,
+      "timestamp": 13.504,
+      "user_pitch": 488.36029052734375,
+      "ref_pitch": 259.3032068911785,
+      "cents_diff": 1095.967017967611,
+      "abs_cents_diff": 1095.967017967611
+    },
+    {
+      "frame": 424,
+      "timestamp": 13.536,
+      "user_pitch": 1090.112548828125,
+      "ref_pitch": 262.9671563103447,
+      "cents_diff": 2461.827078836546,
+      "abs_cents_diff": 2461.827078836546
+    },
+    {
+      "frame": 425,
+      "timestamp": 13.568,
+      "user_pitch": 92.16529083251953,
+      "ref_pitch": 263.51795455795303,
+      "cents_diff": -1818.7269821301504,
+      "abs_cents_diff": 1818.7269821301504
+    },
+    {
+      "frame": 426,
+      "timestamp": 13.6,
+      "user_pitch": 92.50027465820312,
+      "ref_pitch": 258.3700103943069,
+      "cents_diff": -1778.290881955383,
+      "abs_cents_diff": 1778.290881955383
+    },
+    {
+      "frame": 427,
+      "timestamp": 13.632,
+      "user_pitch": 91.37354278564453,
+      "ref_pitch": 260.66687359423867,
+      "cents_diff": -1814.8306243762877,
+      "abs_cents_diff": 1814.8306243762877
+    },
+    {
+      "frame": 428,
+      "timestamp": 13.664,
+      "user_pitch": 490.452392578125,
+      "ref_pitch": 264.46564179202517,
+      "cents_diff": 1069.2393566595902,
+      "abs_cents_diff": 1069.2393566595902
+    },
+    {
+      "frame": 430,
+      "timestamp": 13.728,
+      "user_pitch": 328.20159912109375,
+      "ref_pitch": 258.79592793753966,
+      "cents_diff": 411.3208212081735,
+      "abs_cents_diff": 411.3208212081735
+    },
+    {
+      "frame": 431,
+      "timestamp": 13.76,
+      "user_pitch": 324.15643310546875,
+      "ref_pitch": 261.8162001299342,
+      "cents_diff": 369.7630035327054,
+      "abs_cents_diff": 369.7630035327054
+    },
+    {
+      "frame": 432,
+      "timestamp": 13.792,
+      "user_pitch": 323.6617736816406,
+      "ref_pitch": 266.01066943080116,
+      "cents_diff": 339.603447635941,
+      "abs_cents_diff": 339.603447635941
+    },
+    {
+      "frame": 433,
+      "timestamp": 13.824,
+      "user_pitch": 322.08563232421875,
+      "ref_pitch": 258.5481118951745,
+      "cents_diff": 380.4138441575954,
+      "abs_cents_diff": 380.4138441575954
+    },
+    {
+      "frame": 434,
+      "timestamp": 13.856,
+      "user_pitch": 90.53875732421875,
+      "ref_pitch": 259.3326266366358,
+      "cents_diff": -1821.8355752653424,
+      "abs_cents_diff": 1821.8355752653424
+    },
+    {
+      "frame": 435,
+      "timestamp": 13.888,
+      "user_pitch": 369.22821044921875,
+      "ref_pitch": 259.64868792884005,
+      "cents_diff": 609.5422193798053,
+      "abs_cents_diff": 609.5422193798053
+    },
+    {
+      "frame": 436,
+      "timestamp": 13.92,
+      "user_pitch": 371.6024169921875,
+      "ref_pitch": 263.05390283397696,
+      "cents_diff": 598.0817165067212,
+      "abs_cents_diff": 598.0817165067212
+    },
+    {
+      "frame": 437,
+      "timestamp": 13.952,
+      "user_pitch": 162.53038024902344,
+      "ref_pitch": 256.5097606062443,
+      "cents_diff": -789.9651734390588,
+      "abs_cents_diff": 789.9651734390588
+    },
+    {
+      "frame": 439,
+      "timestamp": 14.016,
+      "user_pitch": 278.3897705078125,
+      "ref_pitch": 257.8868169495516,
+      "cents_diff": 132.44180986411592,
+      "abs_cents_diff": 132.44180986411592
+    },
+    {
+      "frame": 440,
+      "timestamp": 14.048,
+      "user_pitch": 1012.4664306640625,
+      "ref_pitch": 265.1579422589809,
+      "cents_diff": 2319.5402491243754,
+      "abs_cents_diff": 2319.5402491243754
+    },
+    {
+      "frame": 441,
+      "timestamp": 14.08,
+      "user_pitch": 439.2479248046875,
+      "ref_pitch": 295.5050442464003,
+      "cents_diff": 686.2232556525433,
+      "abs_cents_diff": 686.2232556525433
+    },
+    {
+      "frame": 442,
+      "timestamp": 14.112,
+      "user_pitch": 437.9293212890625,
+      "ref_pitch": 297.5256607613267,
+      "cents_diff": 669.2207346739187,
+      "abs_cents_diff": 669.2207346739187
+    },
+    {
+      "frame": 443,
+      "timestamp": 14.144,
+      "user_pitch": 355.7767639160156,
+      "ref_pitch": 298.599592581956,
+      "cents_diff": 303.31211162343396,
+      "abs_cents_diff": 303.31211162343396
+    },
+    {
+      "frame": 444,
+      "timestamp": 14.176,
+      "user_pitch": 438.2322998046875,
+      "ref_pitch": 297.2499094398863,
+      "cents_diff": 672.0233415516805,
+      "abs_cents_diff": 672.0233415516805
+    },
+    {
+      "frame": 445,
+      "timestamp": 14.208,
+      "user_pitch": 355.0692138671875,
+      "ref_pitch": 290.30626537136664,
+      "cents_diff": 348.6294828446781,
+      "abs_cents_diff": 348.6294828446781
+    },
+    {
+      "frame": 446,
+      "timestamp": 14.24,
+      "user_pitch": 558.1385498046875,
+      "ref_pitch": 291.44090661372604,
+      "cents_diff": 1124.9038878130232,
+      "abs_cents_diff": 1124.9038878130232
+    },
+    {
+      "frame": 447,
+      "timestamp": 14.272,
+      "user_pitch": 437.7557373046875,
+      "ref_pitch": 290.41054494549917,
+      "cents_diff": 710.438697324856,
+      "abs_cents_diff": 710.438697324856
+    },
+    {
+      "frame": 448,
+      "timestamp": 14.304,
+      "user_pitch": 339.0887756347656,
+      "ref_pitch": 291.4430131179038,
+      "cents_diff": 262.13905675646834,
+      "abs_cents_diff": 262.13905675646834
+    },
+    {
+      "frame": 449,
+      "timestamp": 14.336,
+      "user_pitch": 435.41119384765625,
+      "ref_pitch": 294.9210773490396,
+      "cents_diff": 674.4594786259224,
+      "abs_cents_diff": 674.4594786259224
+    },
+    {
+      "frame": 450,
+      "timestamp": 14.368,
+      "user_pitch": 436.85430908203125,
+      "ref_pitch": 292.7046981538673,
+      "cents_diff": 693.2475824813474,
+      "abs_cents_diff": 693.2475824813474
+    },
+    {
+      "frame": 451,
+      "timestamp": 14.4,
+      "user_pitch": 436.4154357910156,
+      "ref_pitch": 297.2641151596304,
+      "cents_diff": 664.7481768610248,
+      "abs_cents_diff": 664.7481768610248
+    },
+    {
+      "frame": 452,
+      "timestamp": 14.432,
+      "user_pitch": 437.3074035644531,
+      "ref_pitch": 290.26371400491513,
+      "cents_diff": 709.5402503951964,
+      "abs_cents_diff": 709.5402503951964
+    },
+    {
+      "frame": 453,
+      "timestamp": 14.464,
+      "user_pitch": 437.50445556640625,
+      "ref_pitch": 295.9330388878812,
+      "cents_diff": 676.8323243949734,
+      "abs_cents_diff": 676.8323243949734
+    },
+    {
+      "frame": 454,
+      "timestamp": 14.496,
+      "user_pitch": 436.50323486328125,
+      "ref_pitch": 290.0568993863855,
+      "cents_diff": 707.5876912356966,
+      "abs_cents_diff": 707.5876912356966
+    },
+    {
+      "frame": 455,
+      "timestamp": 14.528,
+      "user_pitch": 244.86306762695312,
+      "ref_pitch": 294.3205849831763,
+      "cents_diff": -318.49591003527246,
+      "abs_cents_diff": 318.49591003527246
+    },
+    {
+      "frame": 456,
+      "timestamp": 14.56,
+      "user_pitch": 146.96267700195312,
+      "ref_pitch": 289.54746198122007,
+      "cents_diff": -1174.020047690126,
+      "abs_cents_diff": 1174.020047690126
+    },
+    {
+      "frame": 457,
+      "timestamp": 14.592,
+      "user_pitch": 437.01190185546875,
+      "ref_pitch": 296.7959171469072,
+      "cents_diff": 669.8415909146294,
+      "abs_cents_diff": 669.8415909146294
+    },
+    {
+      "frame": 458,
+      "timestamp": 14.624,
+      "user_pitch": 437.6582336425781,
+      "ref_pitch": 288.1145487322865,
+      "cents_diff": 723.7946386888781,
+      "abs_cents_diff": 723.7946386888781
+    },
+    {
+      "frame": 459,
+      "timestamp": 14.656,
+      "user_pitch": 438.2861022949219,
+      "ref_pitch": 291.4039640024974,
+      "cents_diff": 706.6229162211844,
+      "abs_cents_diff": 706.6229162211844
+    },
+    {
+      "frame": 460,
+      "timestamp": 14.688,
+      "user_pitch": 454.83447265625,
+      "ref_pitch": 293.9136367018462,
+      "cents_diff": 755.9391664753468,
+      "abs_cents_diff": 755.9391664753468
+    },
+    {
+      "frame": 463,
+      "timestamp": 14.784,
+      "user_pitch": 432.5560607910156,
+      "ref_pitch": 334.0032437659592,
+      "cents_diff": 447.63001119407227,
+      "abs_cents_diff": 447.63001119407227
+    },
+    {
+      "frame": 464,
+      "timestamp": 14.816,
+      "user_pitch": 438.9019775390625,
+      "ref_pitch": 327.0863577429012,
+      "cents_diff": 509.0726188271397,
+      "abs_cents_diff": 509.0726188271397
+    },
+    {
+      "frame": 466,
+      "timestamp": 14.88,
+      "user_pitch": 285.77398681640625,
+      "ref_pitch": 330.74872020104675,
+      "cents_diff": -253.0331713421276,
+      "abs_cents_diff": 253.0331713421276
+    },
+    {
+      "frame": 467,
+      "timestamp": 14.912,
+      "user_pitch": 671.1770629882812,
+      "ref_pitch": 324.61723701995936,
+      "cents_diff": 1257.5445662150378,
+      "abs_cents_diff": 1257.5445662150378
+    },
+    {
+      "frame": 468,
+      "timestamp": 14.944,
+      "user_pitch": 173.13768005371094,
+      "ref_pitch": 334.67603760799966,
+      "cents_diff": -1141.0146313217094,
+      "abs_cents_diff": 1141.0146313217094
+    },
+    {
+      "frame": 469,
+      "timestamp": 14.976,
+      "user_pitch": 120.78118133544922,
+      "ref_pitch": 325.485445367191,
+      "cents_diff": -1716.2368121057784,
+      "abs_cents_diff": 1716.2368121057784
+    },
+    {
+      "frame": 470,
+      "timestamp": 15.008,
+      "user_pitch": 374.93206787109375,
+      "ref_pitch": 325.18759840440345,
+      "cents_diff": 246.4283826870878,
+      "abs_cents_diff": 246.4283826870878
+    },
+    {
+      "frame": 471,
+      "timestamp": 15.04,
+      "user_pitch": 77.20599365234375,
+      "ref_pitch": 334.441434126338,
+      "cents_diff": -2537.96260626205,
+      "abs_cents_diff": 2537.96260626205
+    },
+    {
+      "frame": 472,
+      "timestamp": 15.072,
+      "user_pitch": 530.7098388671875,
+      "ref_pitch": 331.8410946750026,
+      "cents_diff": 812.9168841589533,
+      "abs_cents_diff": 812.9168841589533
+    },
+    {
+      "frame": 473,
+      "timestamp": 15.104,
+      "user_pitch": 1036.27392578125,
+      "ref_pitch": 330.52185503689066,
+      "cents_diff": 1978.305403665226,
+      "abs_cents_diff": 1978.305403665226
+    },
+    {
+      "frame": 474,
+      "timestamp": 15.136,
+      "user_pitch": 1014.1368408203125,
+      "ref_pitch": 336.1653249807653,
+      "cents_diff": 1911.6114094005811,
+      "abs_cents_diff": 1911.6114094005811
+    },
+    {
+      "frame": 475,
+      "timestamp": 15.168,
+      "user_pitch": 964.870849609375,
+      "ref_pitch": 326.8498700134734,
+      "cents_diff": 1874.0492682242718,
+      "abs_cents_diff": 1874.0492682242718
+    },
+    {
+      "frame": 476,
+      "timestamp": 15.2,
+      "user_pitch": 837.6348876953125,
+      "ref_pitch": 335.8335109699349,
+      "cents_diff": 1582.290403313498,
+      "abs_cents_diff": 1582.290403313498
+    },
+    {
+      "frame": 477,
+      "timestamp": 15.232,
+      "user_pitch": 706.2666015625,
+      "ref_pitch": 325.3303428368272,
+      "cents_diff": 1341.9689871796622,
+      "abs_cents_diff": 1341.9689871796622
+    },
+    {
+      "frame": 478,
+      "timestamp": 15.264,
+      "user_pitch": 901.1124877929688,
+      "ref_pitch": 333.4271938432894,
+      "cents_diff": 1721.2025264626488,
+      "abs_cents_diff": 1721.2025264626488
+    },
+    {
+      "frame": 479,
+      "timestamp": 15.296,
+      "user_pitch": 269.27569580078125,
+      "ref_pitch": 332.1440635681851,
+      "cents_diff": -363.2701294287023,
+      "abs_cents_diff": 363.2701294287023
+    },
+    {
+      "frame": 480,
+      "timestamp": 15.328,
+      "user_pitch": 61.761634826660156,
+      "ref_pitch": 326.9994126796004,
+      "cents_diff": -2885.406237891283,
+      "abs_cents_diff": 2885.406237891283
+    },
+    {
+      "frame": 481,
+      "timestamp": 15.36,
+      "user_pitch": 61.694278717041016,
+      "ref_pitch": 346.33758778907315,
+      "cents_diff": -2986.764431881155,
+      "abs_cents_diff": 2986.764431881155
+    },
+    {
+      "frame": 482,
+      "timestamp": 15.392,
+      "user_pitch": 61.43880844116211,
+      "ref_pitch": 346.94915344834055,
+      "cents_diff": -2997.002526082265,
+      "abs_cents_diff": 2997.002526082265
+    },
+    {
+      "frame": 483,
+      "timestamp": 15.424,
+      "user_pitch": 293.66363525390625,
+      "ref_pitch": 345.0867705856054,
+      "cents_diff": -279.3534492429413,
+      "abs_cents_diff": 279.3534492429413
+    },
+    {
+      "frame": 484,
+      "timestamp": 15.456,
+      "user_pitch": 324.2544250488281,
+      "ref_pitch": 355.63224850426644,
+      "cents_diff": -159.9118679022229,
+      "abs_cents_diff": 159.9118679022229
+    },
+    {
+      "frame": 485,
+      "timestamp": 15.488,
+      "user_pitch": 366.88897705078125,
+      "ref_pitch": 346.1140232753195,
+      "cents_diff": 100.91539794207372,
+      "abs_cents_diff": 100.91539794207372
+    },
+    {
+      "frame": 486,
+      "timestamp": 15.52,
+      "user_pitch": 280.31890869140625,
+      "ref_pitch": 345.70429860118065,
+      "cents_diff": -362.9633749751525,
+      "abs_cents_diff": 362.9633749751525
+    },
+    {
+      "frame": 487,
+      "timestamp": 15.552,
+      "user_pitch": 377.207763671875,
+      "ref_pitch": 342.30577573272427,
+      "cents_diff": 168.08848154430729,
+      "abs_cents_diff": 168.08848154430729
+    },
+    {
+      "frame": 488,
+      "timestamp": 15.584,
+      "user_pitch": 337.5119934082031,
+      "ref_pitch": 353.45784993141024,
+      "cents_diff": -79.91929693415615,
+      "abs_cents_diff": 79.91929693415615
+    },
+    {
+      "frame": 489,
+      "timestamp": 15.616,
+      "user_pitch": 372.0745849609375,
+      "ref_pitch": 354.1596755365169,
+      "cents_diff": 85.43027021047797,
+      "abs_cents_diff": 85.43027021047797
+    },
+    {
+      "frame": 490,
+      "timestamp": 15.648,
+      "user_pitch": 369.9432373046875,
+      "ref_pitch": 354.65355027167357,
+      "cents_diff": 73.07224346604406,
+      "abs_cents_diff": 73.07224346604406
+    },
+    {
+      "frame": 491,
+      "timestamp": 15.68,
+      "user_pitch": 354.420166015625,
+      "ref_pitch": 353.41226609829914,
+      "cents_diff": 4.930296366953918,
+      "abs_cents_diff": 4.930296366953918
+    },
+    {
+      "frame": 492,
+      "timestamp": 15.712,
+      "user_pitch": 767.929443359375,
+      "ref_pitch": 348.6995104665325,
+      "cents_diff": 1366.7873097853228,
+      "abs_cents_diff": 1366.7873097853228
+    },
+    {
+      "frame": 493,
+      "timestamp": 15.744,
+      "user_pitch": 320.8623046875,
+      "ref_pitch": 353.51571883652315,
+      "cents_diff": -167.7840659928639,
+      "abs_cents_diff": 167.7840659928639
+    },
+    {
+      "frame": 494,
+      "timestamp": 15.776,
+      "user_pitch": 163.0685272216797,
+      "ref_pitch": 352.9404578941772,
+      "cents_diff": -1336.7357438294437,
+      "abs_cents_diff": 1336.7357438294437
+    },
+    {
+      "frame": 495,
+      "timestamp": 15.808,
+      "user_pitch": 144.60594177246094,
+      "ref_pitch": 347.4648427381558,
+      "cents_diff": -1517.688212582378,
+      "abs_cents_diff": 1517.688212582378
+    },
+    {
+      "frame": 496,
+      "timestamp": 15.84,
+      "user_pitch": 83.33657836914062,
+      "ref_pitch": 347.4245410365621,
+      "cents_diff": -2471.613471718238,
+      "abs_cents_diff": 2471.613471718238
+    },
+    {
+      "frame": 497,
+      "timestamp": 15.872,
+      "user_pitch": 101.25205993652344,
+      "ref_pitch": 352.83150728087537,
+      "cents_diff": -2161.2337650826153,
+      "abs_cents_diff": 2161.2337650826153
+    },
+    {
+      "frame": 498,
+      "timestamp": 15.904,
+      "user_pitch": 82.47970581054688,
+      "ref_pitch": 354.4300823731318,
+      "cents_diff": -2524.0679595729503,
+      "abs_cents_diff": 2524.0679595729503
+    },
+    {
+      "frame": 499,
+      "timestamp": 15.936,
+      "user_pitch": 433.9980773925781,
+      "ref_pitch": 343.8454783892451,
+      "cents_diff": 403.11393295153914,
+      "abs_cents_diff": 403.11393295153914
+    },
+    {
+      "frame": 500,
+      "timestamp": 15.968,
+      "user_pitch": 83.71637725830078,
+      "ref_pitch": 350.3845479663673,
+      "cents_diff": -2478.428839554894,
+      "abs_cents_diff": 2478.428839554894
+    },
+    {
+      "frame": 501,
+      "timestamp": 16.0,
+      "user_pitch": 82.88719177246094,
+      "ref_pitch": 386.90595404475005,
+      "cents_diff": -2667.314208308034,
+      "abs_cents_diff": 2667.314208308034
+    },
+    {
+      "frame": 502,
+      "timestamp": 16.032,
+      "user_pitch": 82.72694396972656,
+      "ref_pitch": 397.34851266603795,
+      "cents_diff": -2716.7709009783557,
+      "abs_cents_diff": 2716.7709009783557
+    },
+    {
+      "frame": 503,
+      "timestamp": 16.064,
+      "user_pitch": 83.19776916503906,
+      "ref_pitch": 391.8702904252876,
+      "cents_diff": -2682.911339197113,
+      "abs_cents_diff": 2682.911339197113
+    },
+    {
+      "frame": 504,
+      "timestamp": 16.096,
+      "user_pitch": 83.06515502929688,
+      "ref_pitch": 398.67785560031814,
+      "cents_diff": -2715.4897922902824,
+      "abs_cents_diff": 2715.4897922902824
+    },
+    {
+      "frame": 505,
+      "timestamp": 16.128,
+      "user_pitch": 101.63465881347656,
+      "ref_pitch": 392.4299125942935,
+      "cents_diff": -2338.851058767841,
+      "abs_cents_diff": 2338.851058767841
+    },
+    {
+      "frame": 506,
+      "timestamp": 16.16,
+      "user_pitch": 82.28731536865234,
+      "ref_pitch": 397.6806887952581,
+      "cents_diff": -2727.4422557525163,
+      "abs_cents_diff": 2727.4422557525163
+    },
+    {
+      "frame": 507,
+      "timestamp": 16.192,
+      "user_pitch": 327.76739501953125,
+      "ref_pitch": 385.9217365657896,
+      "cents_diff": -282.76314732474407,
+      "abs_cents_diff": 282.76314732474407
+    },
+    {
+      "frame": 508,
+      "timestamp": 16.224,
+      "user_pitch": 83.02672576904297,
+      "ref_pitch": 395.00405335091324,
+      "cents_diff": -2700.263696467492,
+      "abs_cents_diff": 2700.263696467492
+    },
+    {
+      "frame": 509,
+      "timestamp": 16.256,
+      "user_pitch": 83.01378631591797,
+      "ref_pitch": 385.7709903634932,
+      "cents_diff": -2659.5861653782185,
+      "abs_cents_diff": 2659.5861653782185
+    },
+    {
+      "frame": 511,
+      "timestamp": 16.32,
+      "user_pitch": 997.3988647460938,
+      "ref_pitch": 394.2381635536211,
+      "cents_diff": 1606.9237441571554,
+      "abs_cents_diff": 1606.9237441571554
+    },
+    {
+      "frame": 512,
+      "timestamp": 16.352,
+      "user_pitch": 490.06439208984375,
+      "ref_pitch": 389.3615668123605,
+      "cents_diff": 398.2330075265348,
+      "abs_cents_diff": 398.2330075265348
+    },
+    {
+      "frame": 513,
+      "timestamp": 16.384,
+      "user_pitch": 330.712890625,
+      "ref_pitch": 396.05834262495415,
+      "cents_diff": -312.1604235468268,
+      "abs_cents_diff": 312.1604235468268
+    },
+    {
+      "frame": 514,
+      "timestamp": 16.416,
+      "user_pitch": 328.54315185546875,
+      "ref_pitch": 391.78499755877175,
+      "cents_diff": -304.7751399236516,
+      "abs_cents_diff": 304.7751399236516
+    },
+    {
+      "frame": 515,
+      "timestamp": 16.448,
+      "user_pitch": 83.03614807128906,
+      "ref_pitch": 387.57506552951384,
+      "cents_diff": -2667.197199359462,
+      "abs_cents_diff": 2667.197199359462
+    },
+    {
+      "frame": 516,
+      "timestamp": 16.48,
+      "user_pitch": 364.9581298828125,
+      "ref_pitch": 398.1420885480135,
+      "cents_diff": -150.66291730750723,
+      "abs_cents_diff": 150.66291730750723
+    },
+    {
+      "frame": 517,
+      "timestamp": 16.512,
+      "user_pitch": 392.8890686035156,
+      "ref_pitch": 391.21670238566435,
+      "cents_diff": 7.384875449553031,
+      "abs_cents_diff": 7.384875449553031
+    },
+    {
+      "frame": 518,
+      "timestamp": 16.544,
+      "user_pitch": 83.77540588378906,
+      "ref_pitch": 390.9195158272532,
+      "cents_diff": -2666.7275203623753,
+      "abs_cents_diff": 2666.7275203623753
+    },
+    {
+      "frame": 519,
+      "timestamp": 16.576,
+      "user_pitch": 83.03443145751953,
+      "ref_pitch": 391.950085847012,
+      "cents_diff": -2686.666009016956,
+      "abs_cents_diff": 2686.666009016956
+    },
+    {
+      "frame": 521,
+      "timestamp": 16.64,
+      "user_pitch": 810.6229248046875,
+      "ref_pitch": 445.6613892202984,
+      "cents_diff": 1035.699600623169,
+      "abs_cents_diff": 1035.699600623169
+    },
+    {
+      "frame": 522,
+      "timestamp": 16.672,
+      "user_pitch": 104.5718994140625,
+      "ref_pitch": 441.8031077368976,
+      "cents_diff": -2494.690013574994,
+      "abs_cents_diff": 2494.690013574994
+    },
+    {
+      "frame": 523,
+      "timestamp": 16.704,
+      "user_pitch": 436.3185119628906,
+      "ref_pitch": 439.74992554504377,
+      "cents_diff": -13.561977934794108,
+      "abs_cents_diff": 13.561977934794108
+    },
+    {
+      "frame": 524,
+      "timestamp": 16.736,
+      "user_pitch": 435.65472412109375,
+      "ref_pitch": 436.83743253634185,
+      "cents_diff": -4.693558141718214,
+      "abs_cents_diff": 4.693558141718214
+    },
+    {
+      "frame": 525,
+      "timestamp": 16.768,
+      "user_pitch": 104.88648986816406,
+      "ref_pitch": 434.9691564891279,
+      "cents_diff": -2462.501091802741,
+      "abs_cents_diff": 2462.501091802741
+    },
+    {
+      "frame": 526,
+      "timestamp": 16.8,
+      "user_pitch": 1090.9393310546875,
+      "ref_pitch": 442.5920017185514,
+      "cents_diff": 1561.8259060080686,
+      "abs_cents_diff": 1561.8259060080686
+    },
+    {
+      "frame": 527,
+      "timestamp": 16.832,
+      "user_pitch": 105.86410522460938,
+      "ref_pitch": 435.6555586022426,
+      "cents_diff": -2449.1693346042402,
+      "abs_cents_diff": 2449.1693346042402
+    },
+    {
+      "frame": 528,
+      "timestamp": 16.864,
+      "user_pitch": 104.99589538574219,
+      "ref_pitch": 444.13569682031516,
+      "cents_diff": -2496.801121309796,
+      "abs_cents_diff": 2496.801121309796
+    },
+    {
+      "frame": 530,
+      "timestamp": 16.928,
+      "user_pitch": 439.3155822753906,
+      "ref_pitch": 446.9856159976689,
+      "cents_diff": -29.964881155780667,
+      "abs_cents_diff": 29.964881155780667
+    },
+    {
+      "frame": 533,
+      "timestamp": 17.024,
+      "user_pitch": 161.78973388671875,
+      "ref_pitch": 442.0925472942228,
+      "cents_diff": -1740.2740165357577,
+      "abs_cents_diff": 1740.2740165357577
+    },
+    {
+      "frame": 534,
+      "timestamp": 17.056,
+      "user_pitch": 215.78207397460938,
+      "ref_pitch": 444.04341581287326,
+      "cents_diff": -1249.3508674396267,
+      "abs_cents_diff": 1249.3508674396267
+    },
+    {
+      "frame": 535,
+      "timestamp": 17.088,
+      "user_pitch": 217.54891967773438,
+      "ref_pitch": 444.43299295843684,
+      "cents_diff": -1236.751281682321,
+      "abs_cents_diff": 1236.751281682321
+    },
+    {
+      "frame": 536,
+      "timestamp": 17.12,
+      "user_pitch": 950.933349609375,
+      "ref_pitch": 439.16494364246176,
+      "cents_diff": 1337.4975974151707,
+      "abs_cents_diff": 1337.4975974151707
+    },
+    {
+      "frame": 537,
+      "timestamp": 17.152,
+      "user_pitch": 66.92796325683594,
+      "ref_pitch": 445.2235515486212,
+      "cents_diff": -3280.6186734881117,
+      "abs_cents_diff": 3280.6186734881117
+    },
+    {
+      "frame": 538,
+      "timestamp": 17.184,
+      "user_pitch": 437.5682067871094,
+      "ref_pitch": 445.6928081590878,
+      "cents_diff": -31.85011681199995,
+      "abs_cents_diff": 31.85011681199995
+    },
+    {
+      "frame": 539,
+      "timestamp": 17.216,
+      "user_pitch": 391.4283752441406,
+      "ref_pitch": 439.3291232033148,
+      "cents_diff": -199.86455540235627,
+      "abs_cents_diff": 199.86455540235627
+    },
+    {
+      "frame": 540,
+      "timestamp": 17.248,
+      "user_pitch": 243.36053466796875,
+      "ref_pitch": 447.85910702579963,
+      "cents_diff": -1055.9396583210205,
+      "abs_cents_diff": 1055.9396583210205
+    },
+    {
+      "frame": 541,
+      "timestamp": 17.28,
+      "user_pitch": 242.41079711914062,
+      "ref_pitch": 498.3008373965689,
+      "cents_diff": -1247.4756477032693,
+      "abs_cents_diff": 1247.4756477032693
+    },
+    {
+      "frame": 542,
+      "timestamp": 17.312,
+      "user_pitch": 250.34979248046875,
+      "ref_pitch": 493.8303317464602,
+      "cents_diff": -1176.0842303930451,
+      "abs_cents_diff": 1176.0842303930451
+    },
+    {
+      "frame": 543,
+      "timestamp": 17.344,
+      "user_pitch": 286.18963623046875,
+      "ref_pitch": 499.81518964893826,
+      "cents_diff": -965.3079811014251,
+      "abs_cents_diff": 965.3079811014251
+    },
+    {
+      "frame": 544,
+      "timestamp": 17.376,
+      "user_pitch": 436.937744140625,
+      "ref_pitch": 489.9697811679308,
+      "cents_diff": -198.31804552397244,
+      "abs_cents_diff": 198.31804552397244
+    },
+    {
+      "frame": 545,
+      "timestamp": 17.408,
+      "user_pitch": 435.17474365234375,
+      "ref_pitch": 489.6359676652945,
+      "cents_diff": -204.13765250132326,
+      "abs_cents_diff": 204.13765250132326
+    },
+    {
+      "frame": 546,
+      "timestamp": 17.44,
+      "user_pitch": 436.068359375,
+      "ref_pitch": 498.0468409951907,
+      "cents_diff": -230.07254320945347,
+      "abs_cents_diff": 230.07254320945347
+    },
+    {
+      "frame": 547,
+      "timestamp": 17.472,
+      "user_pitch": 292.4774169921875,
+      "ref_pitch": 486.7222353139199,
+      "cents_diff": -881.7281393474655,
+      "abs_cents_diff": 881.7281393474655
+    },
+    {
+      "frame": 548,
+      "timestamp": 17.504,
+      "user_pitch": 273.9306640625,
+      "ref_pitch": 489.5394667409045,
+      "cents_diff": -1005.1372836473098,
+      "abs_cents_diff": 1005.1372836473098
+    },
+    {
+      "frame": 549,
+      "timestamp": 17.536,
+      "user_pitch": 219.15184020996094,
+      "ref_pitch": 499.6132092531363,
+      "cents_diff": -1426.6569931612132,
+      "abs_cents_diff": 1426.6569931612132
+    },
+    {
+      "frame": 550,
+      "timestamp": 17.568,
+      "user_pitch": 293.78607177734375,
+      "ref_pitch": 487.00136563497466,
+      "cents_diff": -874.9917812081981,
+      "abs_cents_diff": 874.9917812081981
+    },
+    {
+      "frame": 551,
+      "timestamp": 17.6,
+      "user_pitch": 73.04203796386719,
+      "ref_pitch": 484.9982427752468,
+      "cents_diff": -3277.4167154557726,
+      "abs_cents_diff": 3277.4167154557726
+    },
+    {
+      "frame": 552,
+      "timestamp": 17.632,
+      "user_pitch": 294.005859375,
+      "ref_pitch": 493.5436403442373,
+      "cents_diff": -896.7992994050056,
+      "abs_cents_diff": 896.7992994050056
+    },
+    {
+      "frame": 553,
+      "timestamp": 17.664,
+      "user_pitch": 292.6867980957031,
+      "ref_pitch": 499.68135194553906,
+      "cents_diff": -925.9808456547905,
+      "abs_cents_diff": 925.9808456547905
+    },
+    {
+      "frame": 554,
+      "timestamp": 17.696,
+      "user_pitch": 293.1357421875,
+      "ref_pitch": 500.2458317344096,
+      "cents_diff": -925.2820244874131,
+      "abs_cents_diff": 925.2820244874131
+    },
+    {
+      "frame": 555,
+      "timestamp": 17.728,
+      "user_pitch": 294.6134033203125,
+      "ref_pitch": 491.6626874563547,
+      "cents_diff": -886.6149668509942,
+      "abs_cents_diff": 886.6149668509942
+    },
+    {
+      "frame": 556,
+      "timestamp": 17.76,
+      "user_pitch": 293.3514404296875,
+      "ref_pitch": 489.7977310394497,
+      "cents_diff": -887.4672176275174,
+      "abs_cents_diff": 887.4672176275174
+    },
+    {
+      "frame": 557,
+      "timestamp": 17.792,
+      "user_pitch": 293.1366271972656,
+      "ref_pitch": 494.0323419450406,
+      "cents_diff": -903.6386980135425,
+      "abs_cents_diff": 903.6386980135425
+    },
+    {
+      "frame": 558,
+      "timestamp": 17.824,
+      "user_pitch": 592.7926635742188,
+      "ref_pitch": 495.35781757251044,
+      "cents_diff": 310.8678869534264,
+      "abs_cents_diff": 310.8678869534264
+    },
+    {
+      "frame": 559,
+      "timestamp": 17.856,
+      "user_pitch": 563.390625,
+      "ref_pitch": 499.25983574723534,
+      "cents_diff": 209.2136484185685,
+      "abs_cents_diff": 209.2136484185685
+    },
+    {
+      "frame": 560,
+      "timestamp": 17.888,
+      "user_pitch": 179.72540283203125,
+      "ref_pitch": 495.2872387672306,
+      "cents_diff": -1754.9653351415684,
+      "abs_cents_diff": 1754.9653351415684
+    },
+    {
+      "frame": 561,
+      "timestamp": 17.92,
+      "user_pitch": 182.87435913085938,
+      "ref_pitch": 266.42379377571945,
+      "cents_diff": -651.4441485725715,
+      "abs_cents_diff": 651.4441485725715
+    },
+    {
+      "frame": 562,
+      "timestamp": 17.952,
+      "user_pitch": 72.64264678955078,
+      "ref_pitch": 264.07653526384667,
+      "cents_diff": -2234.4809291695083,
+      "abs_cents_diff": 2234.4809291695083
+    },
+    {
+      "frame": 563,
+      "timestamp": 17.984,
+      "user_pitch": 163.057373046875,
+      "ref_pitch": 265.4690410288107,
+      "cents_diff": -843.7967355268688,
+      "abs_cents_diff": 843.7967355268688
+    },
+    {
+      "frame": 564,
+      "timestamp": 18.016,
+      "user_pitch": 73.39250183105469,
+      "ref_pitch": 261.1712595999264,
+      "cents_diff": -2197.549875600071,
+      "abs_cents_diff": 2197.549875600071
+    },
+    {
+      "frame": 565,
+      "timestamp": 18.048,
+      "user_pitch": 573.1339111328125,
+      "ref_pitch": 265.6947713686218,
+      "cents_diff": 1330.9229074084658,
+      "abs_cents_diff": 1330.9229074084658
+    },
+    {
+      "frame": 569,
+      "timestamp": 18.176,
+      "user_pitch": 856.8268432617188,
+      "ref_pitch": 258.8036793652956,
+      "cents_diff": 2072.57466063444,
+      "abs_cents_diff": 2072.57466063444
+    },
+    {
+      "frame": 571,
+      "timestamp": 18.24,
+      "user_pitch": 127.61000061035156,
+      "ref_pitch": 259.12451826609873,
+      "cents_diff": -1226.284960560258,
+      "abs_cents_diff": 1226.284960560258
+    },
+    {
+      "frame": 572,
+      "timestamp": 18.272,
+      "user_pitch": 876.3600463867188,
+      "ref_pitch": 256.497537056957,
+      "cents_diff": 2127.0944879169747,
+      "abs_cents_diff": 2127.0944879169747
+    },
+    {
+      "frame": 573,
+      "timestamp": 18.304,
+      "user_pitch": 1183.91943359375,
+      "ref_pitch": 260.28344819947114,
+      "cents_diff": 2622.4985176329455,
+      "abs_cents_diff": 2622.4985176329455
+    },
+    {
+      "frame": 574,
+      "timestamp": 18.336,
+      "user_pitch": 300.07122802734375,
+      "ref_pitch": 263.63810135548835,
+      "cents_diff": 224.09533044678534,
+      "abs_cents_diff": 224.09533044678534
+    },
+    {
+      "frame": 575,
+      "timestamp": 18.368,
+      "user_pitch": 371.18914794921875,
+      "ref_pitch": 262.5238654073871,
+      "cents_diff": 599.6471423299272,
+      "abs_cents_diff": 599.6471423299272
+    },
+    {
+      "frame": 576,
+      "timestamp": 18.4,
+      "user_pitch": 289.32550048828125,
+      "ref_pitch": 262.6245376078874,
+      "cents_diff": 167.6301214888228,
+      "abs_cents_diff": 167.6301214888228
+    },
+    {
+      "frame": 577,
+      "timestamp": 18.432,
+      "user_pitch": 290.1500244140625,
+      "ref_pitch": 265.02557130810214,
+      "cents_diff": 156.80098049002135,
+      "abs_cents_diff": 156.80098049002135
+    },
+    {
+      "frame": 578,
+      "timestamp": 18.464,
+      "user_pitch": 180.94000244140625,
+      "ref_pitch": 257.6480998477499,
+      "cents_diff": -611.868667953147,
+      "abs_cents_diff": 611.868667953147
+    },
+    {
+      "frame": 580,
+      "timestamp": 18.528,
+      "user_pitch": 622.2924194335938,
+      "ref_pitch": 256.5388745776562,
+      "cents_diff": 1534.0982531068441,
+      "abs_cents_diff": 1534.0982531068441
+    },
+    {
+      "frame": 581,
+      "timestamp": 18.56,
+      "user_pitch": 1191.14794921875,
+      "ref_pitch": 298.5265572823914,
+      "cents_diff": 2395.705717587086,
+      "abs_cents_diff": 2395.705717587086
+    },
+    {
+      "frame": 582,
+      "timestamp": 18.592,
+      "user_pitch": 969.5465087890625,
+      "ref_pitch": 291.7174456937595,
+      "cents_diff": 2079.28612639665,
+      "abs_cents_diff": 2079.28612639665
+    },
+    {
+      "frame": 586,
+      "timestamp": 18.72,
+      "user_pitch": 1181.8109130859375,
+      "ref_pitch": 297.8005927207226,
+      "cents_diff": 2386.296834910669,
+      "abs_cents_diff": 2386.296834910669
+    },
+    {
+      "frame": 587,
+      "timestamp": 18.752,
+      "user_pitch": 1071.496337890625,
+      "ref_pitch": 296.48340334920454,
+      "cents_diff": 2224.3244001448697,
+      "abs_cents_diff": 2224.3244001448697
+    },
+    {
+      "frame": 588,
+      "timestamp": 18.784,
+      "user_pitch": 1179.138671875,
+      "ref_pitch": 289.63409631472155,
+      "cents_diff": 2430.516049235152,
+      "abs_cents_diff": 2430.516049235152
+    },
+    {
+      "frame": 589,
+      "timestamp": 18.816,
+      "user_pitch": 1195.6553955078125,
+      "ref_pitch": 294.95753949950034,
+      "cents_diff": 2423.066943333337,
+      "abs_cents_diff": 2423.066943333337
+    },
+    {
+      "frame": 590,
+      "timestamp": 18.848,
+      "user_pitch": 1185.1199951171875,
+      "ref_pitch": 290.0077244740701,
+      "cents_diff": 2437.043890616885,
+      "abs_cents_diff": 2437.043890616885
+    },
+    {
+      "frame": 591,
+      "timestamp": 18.88,
+      "user_pitch": 147.30764770507812,
+      "ref_pitch": 293.761350956998,
+      "cents_diff": -1194.9747198143064,
+      "abs_cents_diff": 1194.9747198143064
+    },
+    {
+      "frame": 592,
+      "timestamp": 18.912,
+      "user_pitch": 884.8226928710938,
+      "ref_pitch": 292.2110875273431,
+      "cents_diff": 1918.0529596812535,
+      "abs_cents_diff": 1918.0529596812535
+    },
+    {
+      "frame": 593,
+      "timestamp": 18.944,
+      "user_pitch": 882.6461791992188,
+      "ref_pitch": 288.33696940821824,
+      "cents_diff": 1936.8952853389696,
+      "abs_cents_diff": 1936.8952853389696
+    },
+    {
+      "frame": 594,
+      "timestamp": 18.976,
+      "user_pitch": 230.01760864257812,
+      "ref_pitch": 288.57637580059674,
+      "cents_diff": -392.6506683298865,
+      "abs_cents_diff": 392.6506683298865
+    },
+    {
+      "frame": 595,
+      "timestamp": 19.008,
+      "user_pitch": 275.2383117675781,
+      "ref_pitch": 291.5324535849133,
+      "cents_diff": -99.57023319357884,
+      "abs_cents_diff": 99.57023319357884
+    },
+    {
+      "frame": 596,
+      "timestamp": 19.04,
+      "user_pitch": 293.05706787109375,
+      "ref_pitch": 293.94562754481944,
+      "cents_diff": -5.241222736222754,
+      "abs_cents_diff": 5.241222736222754
+    },
+    {
+      "frame": 597,
+      "timestamp": 19.072,
+      "user_pitch": 301.8197021484375,
+      "ref_pitch": 294.76766404067183,
+      "cents_diff": 40.93045832983267,
+      "abs_cents_diff": 40.93045832983267
+    },
+    {
+      "frame": 598,
+      "timestamp": 19.104,
+      "user_pitch": 293.3167724609375,
+      "ref_pitch": 290.796485896667,
+      "cents_diff": 14.939681398073317,
+      "abs_cents_diff": 14.939681398073317
+    },
+    {
+      "frame": 599,
+      "timestamp": 19.136,
+      "user_pitch": 290.39788818359375,
+      "ref_pitch": 296.71262924009187,
+      "cents_diff": -37.24244752854895,
+      "abs_cents_diff": 37.24244752854895
+    },
+    {
+      "frame": 600,
+      "timestamp": 19.168,
+      "user_pitch": 597.971923828125,
+      "ref_pitch": 297.4275247212646,
+      "cents_diff": 1209.0475005429657,
+      "abs_cents_diff": 1209.0475005429657
+    },
+    {
+      "frame": 601,
+      "timestamp": 19.2,
+      "user_pitch": 119.9994888305664,
+      "ref_pitch": 334.4703846032791,
+      "cents_diff": -1774.6202568058523,
+      "abs_cents_diff": 1774.6202568058523
+    },
+    {
+      "frame": 602,
+      "timestamp": 19.232,
+      "user_pitch": 455.5564880371094,
+      "ref_pitch": 333.17874693497834,
+      "cents_diff": 541.6002964265383,
+      "abs_cents_diff": 541.6002964265383
+    },
+    {
+      "frame": 603,
+      "timestamp": 19.264,
+      "user_pitch": 1014.5372314453125,
+      "ref_pitch": 329.4730488608454,
+      "cents_diff": 1947.1073380537812,
+      "abs_cents_diff": 1947.1073380537812
+    },
+    {
+      "frame": 604,
+      "timestamp": 19.296,
+      "user_pitch": 580.1322021484375,
+      "ref_pitch": 334.80039487794556,
+      "cents_diff": 951.696568344379,
+      "abs_cents_diff": 951.696568344379
+    },
+    {
+      "frame": 605,
+      "timestamp": 19.328,
+      "user_pitch": 569.6848754882812,
+      "ref_pitch": 334.2790939334926,
+      "cents_diff": 922.9331690362054,
+      "abs_cents_diff": 922.9331690362054
+    },
+    {
+      "frame": 606,
+      "timestamp": 19.36,
+      "user_pitch": 507.59246826171875,
+      "ref_pitch": 327.0181645040259,
+      "cents_diff": 761.1598664606666,
+      "abs_cents_diff": 761.1598664606666
+    },
+    {
+      "frame": 607,
+      "timestamp": 19.392,
+      "user_pitch": 578.8367919921875,
+      "ref_pitch": 326.4507195557859,
+      "cents_diff": 991.5496846350707,
+      "abs_cents_diff": 991.5496846350707
+    },
+    {
+      "frame": 608,
+      "timestamp": 19.424,
+      "user_pitch": 574.1375732421875,
+      "ref_pitch": 331.69443804516857,
+      "cents_diff": 949.8499825315628,
+      "abs_cents_diff": 949.8499825315628
+    },
+    {
+      "frame": 609,
+      "timestamp": 19.456,
+      "user_pitch": 232.8028564453125,
+      "ref_pitch": 335.7563547603499,
+      "cents_diff": -633.9671345162393,
+      "abs_cents_diff": 633.9671345162393
+    },
+    {
+      "frame": 610,
+      "timestamp": 19.488,
+      "user_pitch": 614.0254516601562,
+      "ref_pitch": 328.90985256874836,
+      "cents_diff": 1080.727478622867,
+      "abs_cents_diff": 1080.727478622867
+    },
+    {
+      "frame": 611,
+      "timestamp": 19.52,
+      "user_pitch": 599.4069213867188,
+      "ref_pitch": 330.9593340143119,
+      "cents_diff": 1028.258139914024,
+      "abs_cents_diff": 1028.258139914024
+    },
+    {
+      "frame": 612,
+      "timestamp": 19.552,
+      "user_pitch": 426.125,
+      "ref_pitch": 326.3141294041688,
+      "cents_diff": 462.0182842526742,
+      "abs_cents_diff": 462.0182842526742
+    },
+    {
+      "frame": 613,
+      "timestamp": 19.584,
+      "user_pitch": 288.2839050292969,
+      "ref_pitch": 326.9389646108421,
+      "cents_diff": -217.83724181055092,
+      "abs_cents_diff": 217.83724181055092
+    },
+    {
+      "frame": 614,
+      "timestamp": 19.616,
+      "user_pitch": 575.8992919921875,
+      "ref_pitch": 333.4286312900264,
+      "cents_diff": 946.1262666075863,
+      "abs_cents_diff": 946.1262666075863
+    },
+    {
+      "frame": 615,
+      "timestamp": 19.648,
+      "user_pitch": 356.8559265136719,
+      "ref_pitch": 328.59346855099363,
+      "cents_diff": 142.84551386320155,
+      "abs_cents_diff": 142.84551386320155
+    },
+    {
+      "frame": 616,
+      "timestamp": 19.68,
+      "user_pitch": 557.9512939453125,
+      "ref_pitch": 325.6007013432275,
+      "cents_diff": 932.4424573231878,
+      "abs_cents_diff": 932.4424573231878
+    },
+    {
+      "frame": 618,
+      "timestamp": 19.744,
+      "user_pitch": 525.2030029296875,
+      "ref_pitch": 329.97771767532043,
+      "cents_diff": 804.6078694108544,
+      "abs_cents_diff": 804.6078694108544
+    },
+    {
+      "frame": 619,
+      "timestamp": 19.776,
+      "user_pitch": 488.2056884765625,
+      "ref_pitch": 330.0901062001501,
+      "cents_diff": 677.555049534374,
+      "abs_cents_diff": 677.555049534374
+    },
+    {
+      "frame": 621,
+      "timestamp": 19.84,
+      "user_pitch": 1174.964599609375,
+      "ref_pitch": 346.38697784509895,
+      "cents_diff": 2114.5928297478326,
+      "abs_cents_diff": 2114.5928297478326
+    },
+    {
+      "frame": 623,
+      "timestamp": 19.904,
+      "user_pitch": 104.26806640625,
+      "ref_pitch": 347.7690125140461,
+      "cents_diff": -2085.3984114858195,
+      "abs_cents_diff": 2085.3984114858195
+    },
+    {
+      "frame": 624,
+      "timestamp": 19.936,
+      "user_pitch": 548.5125732421875,
+      "ref_pitch": 345.7685328103249,
+      "cents_diff": 798.8617329388405,
+      "abs_cents_diff": 798.8617329388405
+    },
+    {
+      "frame": 625,
+      "timestamp": 19.968,
+      "user_pitch": 104.26806640625,
+      "ref_pitch": 343.56279107269825,
+      "cents_diff": -2064.3317005505414,
+      "abs_cents_diff": 2064.3317005505414
+    },
+    {
+      "frame": 626,
+      "timestamp": 20.0,
+      "user_pitch": 548.5125732421875,
+      "ref_pitch": 348.06927925195754,
+      "cents_diff": 787.3802451676843,
+      "abs_cents_diff": 787.3802451676843
+    },
+    {
+      "frame": 627,
+      "timestamp": 20.032,
+      "user_pitch": 104.26806640625,
+      "ref_pitch": 343.8840942776668,
+      "cents_diff": -2065.9500105636466,
+      "abs_cents_diff": 2065.9500105636466
+    },
+    {
+      "frame": 628,
+      "timestamp": 20.064,
+      "user_pitch": 548.5125732421875,
+      "ref_pitch": 347.1299232662996,
+      "cents_diff": 792.058748970286,
+      "abs_cents_diff": 792.058748970286
+    },
+    {
+      "frame": 629,
+      "timestamp": 20.096,
+      "user_pitch": 104.26806640625,
+      "ref_pitch": 350.5983452023728,
+      "cents_diff": -2099.426168743711,
+      "abs_cents_diff": 2099.426168743711
+    },
+    {
+      "frame": 630,
+      "timestamp": 20.128,
+      "user_pitch": 548.5125732421875,
+      "ref_pitch": 343.52198705378737,
+      "cents_diff": 810.14669962802,
+      "abs_cents_diff": 810.14669962802
+    },
+    {
+      "frame": 631,
+      "timestamp": 20.16,
+      "user_pitch": 104.26806640625,
+      "ref_pitch": 349.4587004799932,
+      "cents_diff": -2093.7895038395905,
+      "abs_cents_diff": 2093.7895038395905
+    },
+    {
+      "frame": 632,
+      "timestamp": 20.192,
+      "user_pitch": 548.5125732421875,
+      "ref_pitch": 350.2926266788303,
+      "cents_diff": 776.3568839555363,
+      "abs_cents_diff": 776.3568839555363
+    },
+    {
+      "frame": 633,
+      "timestamp": 20.224,
+      "user_pitch": 104.26806640625,
+      "ref_pitch": 353.5812690963123,
+      "cents_diff": -2114.093364995193,
+      "abs_cents_diff": 2114.093364995193
+    },
+    {
+      "frame": 634,
+      "timestamp": 20.256,
+      "user_pitch": 548.5125732421875,
+      "ref_pitch": 352.9303656412036,
+      "cents_diff": 763.3693537680023,
+      "abs_cents_diff": 763.3693537680023
+    },
+    {
+      "frame": 635,
+      "timestamp": 20.288,
+      "user_pitch": 105.22798156738281,
+      "ref_pitch": 343.39109785725446,
+      "cents_diff": -2047.6011011993032,
+      "abs_cents_diff": 2047.6011011993032
+    },
+    {
+      "frame": 636,
+      "timestamp": 20.32,
+      "user_pitch": 1108.9010009765625,
+      "ref_pitch": 349.9941518116573,
+      "cents_diff": 1996.4734216500792,
+      "abs_cents_diff": 1996.4734216500792
+    },
+    {
+      "frame": 637,
+      "timestamp": 20.352,
+      "user_pitch": 548.8914794921875,
+      "ref_pitch": 342.7997841821708,
+      "cents_diff": 814.9856918302996,
+      "abs_cents_diff": 814.9856918302996
+    },
+    {
+      "frame": 638,
+      "timestamp": 20.384,
+      "user_pitch": 673.5983276367188,
+      "ref_pitch": 353.99910976689443,
+      "cents_diff": 1113.7713892156262,
+      "abs_cents_diff": 1113.7713892156262
+    },
+    {
+      "frame": 639,
+      "timestamp": 20.416,
+      "user_pitch": 555.8543701171875,
+      "ref_pitch": 355.8771205239857,
+      "cents_diff": 771.9933266672163,
+      "abs_cents_diff": 771.9933266672163
+    },
+    {
+      "frame": 641,
+      "timestamp": 20.48,
+      "user_pitch": 563.962646484375,
+      "ref_pitch": 388.51185893898713,
+      "cents_diff": 645.1691689804643,
+      "abs_cents_diff": 645.1691689804643
+    },
+    {
+      "frame": 642,
+      "timestamp": 20.512,
+      "user_pitch": 564.9274291992188,
+      "ref_pitch": 392.898218260831,
+      "cents_diff": 628.6919098402623,
+      "abs_cents_diff": 628.6919098402623
+    },
+    {
+      "frame": 643,
+      "timestamp": 20.544,
+      "user_pitch": 538.3077392578125,
+      "ref_pitch": 388.4969821387257,
+      "cents_diff": 564.6333304723762,
+      "abs_cents_diff": 564.6333304723762
+    },
+    {
+      "frame": 644,
+      "timestamp": 20.576,
+      "user_pitch": 579.4576416015625,
+      "ref_pitch": 398.99722561369884,
+      "cents_diff": 645.9893869399252,
+      "abs_cents_diff": 645.9893869399252
+    },
+    {
+      "frame": 645,
+      "timestamp": 20.608,
+      "user_pitch": 844.7724609375,
+      "ref_pitch": 395.5755348547267,
+      "cents_diff": 1313.531522330638,
+      "abs_cents_diff": 1313.531522330638
+    },
+    {
+      "frame": 646,
+      "timestamp": 20.64,
+      "user_pitch": 435.5718078613281,
+      "ref_pitch": 392.32169047879313,
+      "cents_diff": 181.04817463109774,
+      "abs_cents_diff": 181.04817463109774
+    },
+    {
+      "frame": 648,
+      "timestamp": 20.704,
+      "user_pitch": 507.6077880859375,
+      "ref_pitch": 391.9820932951991,
+      "cents_diff": 447.51174507253023,
+      "abs_cents_diff": 447.51174507253023
+    },
+    {
+      "frame": 649,
+      "timestamp": 20.736,
+      "user_pitch": 883.520751953125,
+      "ref_pitch": 396.1775714839117,
+      "cents_diff": 1388.5401751397596,
+      "abs_cents_diff": 1388.5401751397596
+    },
+    {
+      "frame": 650,
+      "timestamp": 20.768,
+      "user_pitch": 583.6048583984375,
+      "ref_pitch": 399.44090637302685,
+      "cents_diff": 656.4117696665138,
+      "abs_cents_diff": 656.4117696665138
+    },
+    {
+      "frame": 651,
+      "timestamp": 20.8,
+      "user_pitch": 896.24658203125,
+      "ref_pitch": 385.8478286128535,
+      "cents_diff": 1459.036469998087,
+      "abs_cents_diff": 1459.036469998087
+    },
+    {
+      "frame": 653,
+      "timestamp": 20.864,
+      "user_pitch": 1108.585205078125,
+      "ref_pitch": 397.56517235787527,
+      "cents_diff": 1775.3476498975317,
+      "abs_cents_diff": 1775.3476498975317
+    },
+    {
+      "frame": 655,
+      "timestamp": 20.928,
+      "user_pitch": 885.7367553710938,
+      "ref_pitch": 396.2217408729537,
+      "cents_diff": 1392.6839325538676,
+      "abs_cents_diff": 1392.6839325538676
+    },
+    {
+      "frame": 657,
+      "timestamp": 20.992,
+      "user_pitch": 381.18316650390625,
+      "ref_pitch": 385.03463941155945,
+      "cents_diff": -17.404599955850706,
+      "abs_cents_diff": 17.404599955850706
+    },
+    {
+      "frame": 658,
+      "timestamp": 21.024,
+      "user_pitch": 1073.596923828125,
+      "ref_pitch": 385.05224464959707,
+      "cents_diff": 1775.19159719294,
+      "abs_cents_diff": 1775.19159719294
+    },
+    {
+      "frame": 659,
+      "timestamp": 21.056,
+      "user_pitch": 1163.2684326171875,
+      "ref_pitch": 393.8163103983483,
+      "cents_diff": 1875.107134725662,
+      "abs_cents_diff": 1875.107134725662
+    },
+    {
+      "frame": 660,
+      "timestamp": 21.088,
+      "user_pitch": 490.522705078125,
+      "ref_pitch": 391.1641493228534,
+      "cents_diff": 391.8549182326273,
+      "abs_cents_diff": 391.8549182326273
+    },
+    {
+      "frame": 661,
+      "timestamp": 21.12,
+      "user_pitch": 1053.4193115234375,
+      "ref_pitch": 447.3617310305203,
+      "cents_diff": 1482.679271183035,
+      "abs_cents_diff": 1482.679271183035
+    },
+    {
+      "frame": 662,
+      "timestamp": 21.152,
+      "user_pitch": 1057.025390625,
+      "ref_pitch": 448.34640679995357,
+      "cents_diff": 1484.7891494603573,
+      "abs_cents_diff": 1484.7891494603573
+    },
+    {
+      "frame": 663,
+      "timestamp": 21.184,
+      "user_pitch": 555.3734741210938,
+      "ref_pitch": 443.98435686827054,
+      "cents_diff": 387.5393114581294,
+      "abs_cents_diff": 387.5393114581294
+    },
+    {
+      "frame": 664,
+      "timestamp": 21.216,
+      "user_pitch": 429.02294921875,
+      "ref_pitch": 432.9110538384217,
+      "cents_diff": -15.618979496925625,
+      "abs_cents_diff": 15.618979496925625
+    },
+    {
+      "frame": 665,
+      "timestamp": 21.248,
+      "user_pitch": 490.4555358886719,
+      "ref_pitch": 444.68706705428554,
+      "cents_diff": 169.5982827980252,
+      "abs_cents_diff": 169.5982827980252
+    },
+    {
+      "frame": 666,
+      "timestamp": 21.28,
+      "user_pitch": 490.3232727050781,
+      "ref_pitch": 433.0146971221638,
+      "cents_diff": 215.18069576035194,
+      "abs_cents_diff": 215.18069576035194
+    },
+    {
+      "frame": 667,
+      "timestamp": 21.312,
+      "user_pitch": 1059.6932373046875,
+      "ref_pitch": 436.64630582429186,
+      "cents_diff": 1534.9315806437662,
+      "abs_cents_diff": 1534.9315806437662
+    },
+    {
+      "frame": 668,
+      "timestamp": 21.344,
+      "user_pitch": 731.7244873046875,
+      "ref_pitch": 437.48688785645294,
+      "cents_diff": 890.472914276306,
+      "abs_cents_diff": 890.472914276306
+    },
+    {
+      "frame": 669,
+      "timestamp": 21.376,
+      "user_pitch": 1131.029296875,
+      "ref_pitch": 440.40503374633147,
+      "cents_diff": 1632.8801230498211,
+      "abs_cents_diff": 1632.8801230498211
+    },
+    {
+      "frame": 670,
+      "timestamp": 21.408,
+      "user_pitch": 98.22087097167969,
+      "ref_pitch": 448.4113821748361,
+      "cents_diff": -2628.8656538901528,
+      "abs_cents_diff": 2628.8656538901528
+    },
+    {
+      "frame": 671,
+      "timestamp": 21.44,
+      "user_pitch": 98.41355895996094,
+      "ref_pitch": 437.0293268904558,
+      "cents_diff": -2580.96131160138,
+      "abs_cents_diff": 2580.96131160138
+    },
+    {
+      "frame": 672,
+      "timestamp": 21.472,
+      "user_pitch": 434.3875732421875,
+      "ref_pitch": 440.8947024794645,
+      "cents_diff": -25.741572881992656,
+      "abs_cents_diff": 25.741572881992656
+    },
+    {
+      "frame": 673,
+      "timestamp": 21.504,
+      "user_pitch": 664.259033203125,
+      "ref_pitch": 438.4551772337805,
+      "cents_diff": 719.1798921332941,
+      "abs_cents_diff": 719.1798921332941
+    },
+    {
+      "frame": 674,
+      "timestamp": 21.536,
+      "user_pitch": 327.695556640625,
+      "ref_pitch": 432.5967581746546,
+      "cents_diff": -480.8000916610977,
+      "abs_cents_diff": 480.8000916610977
+    },
+    {
+      "frame": 675,
+      "timestamp": 21.568,
+      "user_pitch": 383.2020263671875,
+      "ref_pitch": 433.4341995487625,
+      "cents_diff": -213.24936217069506,
+      "abs_cents_diff": 213.24936217069506
+    },
+    {
+      "frame": 677,
+      "timestamp": 21.632,
+      "user_pitch": 930.978515625,
+      "ref_pitch": 436.7927927681445,
+      "cents_diff": 1310.1585879863512,
+      "abs_cents_diff": 1310.1585879863512
+    },
+    {
+      "frame": 678,
+      "timestamp": 21.664,
+      "user_pitch": 1180.5078125,
+      "ref_pitch": 432.8111130027037,
+      "cents_diff": 1737.117769629799,
+      "abs_cents_diff": 1737.117769629799
+    },
+    {
+      "frame": 679,
+      "timestamp": 21.696,
+      "user_pitch": 885.1578979492188,
+      "ref_pitch": 443.9280026355489,
+      "cents_diff": 1194.730939378557,
+      "abs_cents_diff": 1194.730939378557
+    },
+    {
+      "frame": 680,
+      "timestamp": 21.728,
+      "user_pitch": 662.2030029296875,
+      "ref_pitch": 448.64695855273385,
+      "cents_diff": 674.0315064754274,
+      "abs_cents_diff": 674.0315064754274
+    },
+    {
+      "frame": 681,
+      "timestamp": 21.76,
+      "user_pitch": 1032.29833984375,
+      "ref_pitch": 492.7763452215994,
+      "cents_diff": 1280.2260824821517,
+      "abs_cents_diff": 1280.2260824821517
+    },
+    {
+      "frame": 682,
+      "timestamp": 21.792,
+      "user_pitch": 438.21221923828125,
+      "ref_pitch": 487.570828308627,
+      "cents_diff": -184.77851724221327,
+      "abs_cents_diff": 184.77851724221327
+    },
+    {
+      "frame": 683,
+      "timestamp": 21.824,
+      "user_pitch": 135.93695068359375,
+      "ref_pitch": 497.3321371756582,
+      "cents_diff": -2245.526392664057,
+      "abs_cents_diff": 2245.526392664057
+    },
+    {
+      "frame": 684,
+      "timestamp": 21.856,
+      "user_pitch": 686.4973754882812,
+      "ref_pitch": 503.5798106276706,
+      "cents_diff": 536.4405129325231,
+      "abs_cents_diff": 536.4405129325231
+    },
+    {
+      "frame": 685,
+      "timestamp": 21.888,
+      "user_pitch": 72.98271942138672,
+      "ref_pitch": 491.2788547140634,
+      "cents_diff": -3301.098397680239,
+      "abs_cents_diff": 3301.098397680239
+    },
+    {
+      "frame": 686,
+      "timestamp": 21.92,
+      "user_pitch": 350.26763916015625,
+      "ref_pitch": 485.00209270816674,
+      "cents_diff": -563.4399204231229,
+      "abs_cents_diff": 563.4399204231229
+    },
+    {
+      "frame": 687,
+      "timestamp": 21.952,
+      "user_pitch": 563.0065307617188,
+      "ref_pitch": 500.5135992783127,
+      "cents_diff": 203.69086658563344,
+      "abs_cents_diff": 203.69086658563344
+    },
+    {
+      "frame": 688,
+      "timestamp": 21.984,
+      "user_pitch": 72.93633270263672,
+      "ref_pitch": 494.1359234183931,
+      "cents_diff": -3312.2380512163154,
+      "abs_cents_diff": 3312.2380512163154
+    },
+    {
+      "frame": 690,
+      "timestamp": 22.048,
+      "user_pitch": 74.38619995117188,
+      "ref_pitch": 495.32826779988096,
+      "cents_diff": -3282.3336626496925,
+      "abs_cents_diff": 3282.3336626496925
+    },
+    {
+      "frame": 691,
+      "timestamp": 22.08,
+      "user_pitch": 757.7236938476562,
+      "ref_pitch": 496.81465467223876,
+      "cents_diff": 730.7569579226008,
+      "abs_cents_diff": 730.7569579226008
+    },
+    {
+      "frame": 692,
+      "timestamp": 22.112,
+      "user_pitch": 885.988037109375,
+      "ref_pitch": 503.3841690884929,
+      "cents_diff": 978.752847890203,
+      "abs_cents_diff": 978.752847890203
+    },
+    {
+      "frame": 693,
+      "timestamp": 22.144,
+      "user_pitch": 695.36669921875,
+      "ref_pitch": 484.3597162736845,
+      "cents_diff": 626.0341155121642,
+      "abs_cents_diff": 626.0341155121642
+    },
+    {
+      "frame": 694,
+      "timestamp": 22.176,
+      "user_pitch": 289.1976318359375,
+      "ref_pitch": 496.9353818174802,
+      "cents_diff": -937.2030324017722,
+      "abs_cents_diff": 937.2030324017722
+    },
+    {
+      "frame": 695,
+      "timestamp": 22.208,
+      "user_pitch": 887.5341186523438,
+      "ref_pitch": 495.6754392748955,
+      "cents_diff": 1008.4881668892351,
+      "abs_cents_diff": 1008.4881668892351
+    },
+    {
+      "frame": 696,
+      "timestamp": 22.24,
+      "user_pitch": 382.5122375488281,
+      "ref_pitch": 490.268100397837,
+      "cents_diff": -429.6779889053791,
+      "abs_cents_diff": 429.6779889053791
+    },
+    {
+      "frame": 697,
+      "timestamp": 22.272,
+      "user_pitch": 437.4329833984375,
+      "ref_pitch": 500.54715797254374,
+      "cents_diff": -233.33278684700716,
+      "abs_cents_diff": 233.33278684700716
+    },
+    {
+      "frame": 698,
+      "timestamp": 22.304,
+      "user_pitch": 884.5905151367188,
+      "ref_pitch": 501.8152545997863,
+      "cents_diff": 981.4241347396295,
+      "abs_cents_diff": 981.4241347396295
+    },
+    {
+      "frame": 699,
+      "timestamp": 22.336,
+      "user_pitch": 563.62646484375,
+      "ref_pitch": 487.82551529283626,
+      "cents_diff": 250.04896241980094,
+      "abs_cents_diff": 250.04896241980094
+    },
+    {
+      "frame": 700,
+      "timestamp": 22.368,
+      "user_pitch": 73.2978515625,
+      "ref_pitch": 498.8747135185499,
+      "cents_diff": -3320.2016737038384,
+      "abs_cents_diff": 3320.2016737038384
+    },
+    {
+      "frame": 701,
+      "timestamp": 22.4,
+      "user_pitch": 162.25230407714844,
+      "ref_pitch": 260.2628461560825,
+      "cents_diff": -818.0764906957895,
+      "abs_cents_diff": 818.0764906957895
+    }
+  ]
+}

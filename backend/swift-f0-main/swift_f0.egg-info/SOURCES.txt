@@ -1,0 +1,15 @@
+CHANGELOG.md
+LICENSE
+MANIFEST.in
+README.md
+pyproject.toml
+requirements.txt
+swift_f0/__init__.py
+swift_f0/core.py
+swift_f0/model.onnx
+swift_f0/music.py
+swift_f0.egg-info/PKG-INFO
+swift_f0.egg-info/SOURCES.txt
+swift_f0.egg-info/dependency_links.txt
+swift_f0.egg-info/requires.txt
+swift_f0.egg-info/top_level.txt

@@ -1,0 +1,30 @@
+{
+  "song_id": "test",
+  "timestamp": "2026-06-11T18:18:46.929579",
+  "total_frames": 1,
+  "valid_frames": 1,
+  "statistics": {
+    "avg_abs_cents_diff": 5054.225626487526,
+    "max_abs_cents_diff": 5054.225626487526,
+    "min_abs_cents_diff": 5054.225626487526,
+    "std_cents_diff": 0.0,
+    "avg_cents_diff": -5054.225626487526,
+    "perfect_rate": 0.0,
+    "grade_distribution": {
+      "perfect (<5)": 0,
+      "good (5-20)": 0,
+      "ok (20-50)": 0,
+      "poor (>=50)": 1
+    }
+  },
+  "records": [
+    {
+      "frame": 19,
+      "timestamp": 1.1377777777777778,
+      "user_pitch": 102.79627227783203,
+      "ref_pitch": 1904.8990478515625,
+      "cents_diff": -5054.225626487526,
+      "abs_cents_diff": 5054.225626487526
+    }
+  ]
+}

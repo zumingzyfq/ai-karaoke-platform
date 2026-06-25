@@ -1,0 +1,59 @@
+[build-system]
+requires = ["setuptools>=77.0.3", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "swift-f0"
+version = "0.1.2"
+description = "Fast and accurate fundamental frequency (F0) detector using convolutional neural networks"
+readme = "README.md"
+requires-python = ">=3.8"
+
+# PEP 639–style license declaration
+license = "MIT"
+license-files = ["LICENSE"]
+
+authors = [
+    { name = "Lars Nieradzik", email = "l.nieradzik@gmail.com" },
+]
+
+keywords = [
+    "pitch detection",
+    "fundamental frequency",
+    "audio analysis",
+    "speech processing",
+    "F0",
+]
+
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "Intended Audience :: Science/Research",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+    "Topic :: Multimedia :: Sound/Audio :: Analysis",
+    "Topic :: Multimedia :: Sound/Audio :: MIDI",
+]
+
+dependencies = [
+    "onnxruntime",
+    "numpy",
+]
+
+[project.optional-dependencies]
+full = ["librosa", "matplotlib", "mido"]
+audio = ["librosa"]
+viz = ["matplotlib"]
+midi = ["mido"]
+music = ["mido", "matplotlib"]
+
+[project.urls]
+Homepage      = "https://github.com/lars76/swift-f0"
+"Bug Reports" = "https://github.com/lars76/swift-f0/issues"
+Source        = "https://github.com/lars76/swift-f0"

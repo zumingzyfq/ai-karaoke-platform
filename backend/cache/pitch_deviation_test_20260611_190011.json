@@ -1,0 +1,86 @@
+{
+  "song_id": "test",
+  "timestamp": "2026-06-11T19:00:11.440899",
+  "total_frames": 8,
+  "valid_frames": 8,
+  "statistics": {
+    "avg_abs_cents_diff": 4804.792921839619,
+    "max_abs_cents_diff": 5073.87779548683,
+    "min_abs_cents_diff": 3970.19502616734,
+    "std_cents_diff": 346.8284447398482,
+    "avg_cents_diff": -4804.792921839619,
+    "perfect_rate": 0.0,
+    "grade_distribution": {
+      "perfect (<5)": 0,
+      "good (5-20)": 0,
+      "ok (20-50)": 0,
+      "poor (>=50)": 8
+    }
+  },
+  "records": [
+    {
+      "frame": 2,
+      "timestamp": 1.5325170068027212,
+      "user_pitch": 102.65177154541016,
+      "ref_pitch": 1596.02099609375,
+      "cents_diff": -4750.379040232763,
+      "abs_cents_diff": 4750.379040232763
+    },
+    {
+      "frame": 3,
+      "timestamp": 1.555736961451247,
+      "user_pitch": 102.80120849609375,
+      "ref_pitch": 1594.24609375,
+      "cents_diff": -4745.9342600495065,
+      "abs_cents_diff": 4745.9342600495065
+    },
+    {
+      "frame": 4,
+      "timestamp": 1.5789569160997732,
+      "user_pitch": 102.83190155029297,
+      "ref_pitch": 1591.7154541015625,
+      "cents_diff": -4742.667175726191,
+      "abs_cents_diff": 4742.667175726191
+    },
+    {
+      "frame": 7,
+      "timestamp": 1.6486167800453515,
+      "user_pitch": 102.96688842773438,
+      "ref_pitch": 1898.467041015625,
+      "cents_diff": -5045.499084317549,
+      "abs_cents_diff": 5045.499084317549
+    },
+    {
+      "frame": 8,
+      "timestamp": 1.6718367346938776,
+      "user_pitch": 102.79767608642578,
+      "ref_pitch": 1901.225341796875,
+      "cents_diff": -5050.85997763608,
+      "abs_cents_diff": 5050.85997763608
+    },
+    {
+      "frame": 15,
+      "timestamp": 1.8343764172335602,
+      "user_pitch": 102.18292236328125,
+      "ref_pitch": 1915.150146484375,
+      "cents_diff": -5073.87779548683,
+      "abs_cents_diff": 5073.87779548683
+    },
+    {
+      "frame": 16,
+      "timestamp": 1.8575963718820863,
+      "user_pitch": 193.9307861328125,
+      "ref_pitch": 1921.335693359375,
+      "cents_diff": -3970.19502616734,
+      "abs_cents_diff": 3970.19502616734
+    },
+    {
+      "frame": 17,
+      "timestamp": 1.8808163265306121,
+      "user_pitch": 103.10513305664062,
+      "ref_pitch": 1915.822509765625,
+      "cents_diff": -5058.931015100695,
+      "abs_cents_diff": 5058.931015100695
+    }
+  ]
+}

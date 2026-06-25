@@ -1,0 +1,118 @@
+{
+  "song_id": "test",
+  "timestamp": "2026-06-11T18:38:42.395955",
+  "total_frames": 12,
+  "valid_frames": 12,
+  "statistics": {
+    "avg_abs_cents_diff": 4823.054282346643,
+    "max_abs_cents_diff": 5058.04070456888,
+    "min_abs_cents_diff": 4725.673741959674,
+    "std_cents_diff": 133.45503185125034,
+    "avg_cents_diff": -4823.054282346643,
+    "perfect_rate": 0.0,
+    "grade_distribution": {
+      "perfect (<5)": 0,
+      "good (5-20)": 0,
+      "ok (20-50)": 0,
+      "poor (>=50)": 12
+    }
+  },
+  "records": [
+    {
+      "frame": 1,
+      "timestamp": 0.626938775510204,
+      "user_pitch": 102.57405853271484,
+      "ref_pitch": 1903.353759765625,
+      "cents_diff": -5056.567091916254,
+      "abs_cents_diff": 5056.567091916254
+    },
+    {
+      "frame": 23,
+      "timestamp": 1.1609977324263039,
+      "user_pitch": 102.74700927734375,
+      "ref_pitch": 1895.994140625,
+      "cents_diff": -5046.9434394662885,
+      "abs_cents_diff": 5046.9434394662885
+    },
+    {
+      "frame": 29,
+      "timestamp": 1.3003174603174603,
+      "user_pitch": 102.74700927734375,
+      "ref_pitch": 1595.77294921875,
+      "cents_diff": -4748.504507426413,
+      "abs_cents_diff": 4748.504507426413
+    },
+    {
+      "frame": 30,
+      "timestamp": 1.3235374149659864,
+      "user_pitch": 102.74700164794922,
+      "ref_pitch": 1596.411376953125,
+      "cents_diff": -4749.197119702661,
+      "abs_cents_diff": 4749.197119702661
+    },
+    {
+      "frame": 31,
+      "timestamp": 1.3467573696145125,
+      "user_pitch": 102.74699401855469,
+      "ref_pitch": 1596.61767578125,
+      "cents_diff": -4749.420955304694,
+      "abs_cents_diff": 4749.420955304694
+    },
+    {
+      "frame": 39,
+      "timestamp": 1.5325170068027212,
+      "user_pitch": 102.74700164794922,
+      "ref_pitch": 1596.02099609375,
+      "cents_diff": -4748.773718007497,
+      "abs_cents_diff": 4748.773718007497
+    },
+    {
+      "frame": 40,
+      "timestamp": 1.555736961451247,
+      "user_pitch": 102.74700164794922,
+      "ref_pitch": 1594.24609375,
+      "cents_diff": -4746.847376668816,
+      "abs_cents_diff": 4746.847376668816
+    },
+    {
+      "frame": 41,
+      "timestamp": 1.5789569160997732,
+      "user_pitch": 102.74700927734375,
+      "ref_pitch": 1591.7154541015625,
+      "cents_diff": -4744.096976100115,
+      "abs_cents_diff": 4744.096976100115
+    },
+    {
+      "frame": 56,
+      "timestamp": 1.1377777777777778,
+      "user_pitch": 102.56999206542969,
+      "ref_pitch": 1904.8990478515625,
+      "cents_diff": -5058.04070456888,
+      "abs_cents_diff": 5058.04070456888
+    },
+    {
+      "frame": 62,
+      "timestamp": 1.2770975056689342,
+      "user_pitch": 104.06910705566406,
+      "ref_pitch": 1595.13134765625,
+      "cents_diff": -4725.673741959674,
+      "abs_cents_diff": 4725.673741959674
+    },
+    {
+      "frame": 63,
+      "timestamp": 1.3003174603174603,
+      "user_pitch": 102.9417495727539,
+      "ref_pitch": 1595.77294921875,
+      "cents_diff": -4745.22633964749,
+      "abs_cents_diff": 4745.22633964749
+    },
+    {
+      "frame": 64,
+      "timestamp": 1.3235374149659864,
+      "user_pitch": 102.26371765136719,
+      "ref_pitch": 1596.411376953125,
+      "cents_diff": -4757.359417390928,
+      "abs_cents_diff": 4757.359417390928
+    }
+  ]
+}
